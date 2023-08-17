@@ -1,0 +1,52 @@
+{
+    "draws": [
+        {
+            "title": "Dinosaur egg",
+            "link": "res/data/SVGs/dinosaur_egg.svg",
+            "keyWords": [
+                "egg",
+                "dinosaur"
+            ],
+            "categories": [
+                "None",
+                "None"
+            ]
+        },
+        {
+            "title": "Dinosaur egg",
+            "link": "res/data/SVGs/dinosaur_egg.svg",
+            "keyWords": [
+                "egg",
+                "dinosaur"
+            ],
+            "categories": [
+                "None",
+                "None"
+            ]
+        },
+        {
+            "title": "Dinosaur egg",
+            "link": "res/data/SVGs/dinosaur_egg.svg",
+            "keyWords": [
+                "egg",
+                "dinosaur"
+            ],
+            "categories": [
+                "None",
+                "None"
+            ]
+        },
+        {
+            "title": "Dinosaur egg",
+            "link": "res/data/SVGs/dinosaur_egg.svg",
+            "keyWords": [
+                "egg",
+                "dinosaur"
+            ],
+            "categories": [
+                "None",
+                "None"
+            ]
+        }
+    ]
+}

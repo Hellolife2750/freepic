@@ -1,0 +1,256 @@
+/*général*/
+:root {
+  --primary: #0d6ce0;
+  --secondary: #2b81e9;
+  --light: whitesmoke;
+  --dark: black;
+}
+
+*,
+::before,
+::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: var(--light);
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  height: auto;
+  background-color: whitesmoke;
+  font-family: "Ubuntu", sans-serif;
+  overflow-x: hidden;
+}
+
+*::selection {
+  background-color: #a6dcf5;
+  font-weight: bold;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+/* header */
+header {
+  width: 100%;
+  background-color: var(--primary);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 3;
+  display: flex;
+  justify-content: center;
+}
+
+header .center {
+  width: 90%;
+  display: flex;
+  justify-content: space-between;
+  font-weight: bold;
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+header .text-input {
+  width: 20%;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: white;
+  cursor: pointer;
+}
+
+/*section principale*/
+#principal {
+  /*background-color: white;*/
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 15vh;
+  /*border-radius: 50px;*/
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+#principal .card {
+  width: 15%;
+  margin: 3%;
+  background-color: white;
+  border-radius: 2rem;
+  padding: 1rem; /*2%*/
+  cursor: pointer;
+  box-shadow: 0 6px 6px hsl(0deg 0% 0% / 0.3);
+
+  transition: all 0.5s ease-in-out 0.2s;
+}
+
+#principal .card:hover {
+  scale: 1.05;
+
+  transition: all 0.5s ease-in-out;
+}
+
+#principal .card img {
+  width: 100%;
+}
+
+#draws-popup {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  z-index: 9; /*1*/
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+#popup-card {
+  width: 60%;
+  height: 50%;
+  background: linear-gradient(
+    135deg,
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.8)
+  );
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  border-radius: 20px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+  overflow: hidden;
+  transition: all 0.3s ease-in-out;
+  position: relative;
+  display: flex;
+}
+
+#popup-card .left,
+#popup-card .right {
+  width: 50%;
+  height: 100%;
+}
+
+#popup-card .left {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#popup-card .preview {
+  width: 70%;
+}
+
+#popup-card .right {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+#popup-card .title {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+#popup-card .dl-buttons-container {
+  margin-top: 1.3rem;
+}
+
+#popup-card .dl-buttons-container button {
+  margin-right: 1rem;
+}
+
+.classic-button {
+  color: whitesmoke;
+  background-color: var(--secondary);
+  border: 2px solid var(--secondary);
+  text-align: center;
+  border-radius: 2rem;
+  width: 200px;
+  padding: 10px;
+  cursor: pointer;
+
+  transition: all 0.3s ease-in-out 0.1s;
+}
+
+.classic-button:hover {
+  color: #2b81e9;
+  background-color: whitesmoke;
+  font-weight: bold;
+  scale: 1.05;
+
+  transition: all 0.3s ease-in-out;
+}
+
+.classic-button.dl-draw {
+  /*position: absolute;
+  right: 20px;
+  bottom: 20px;*/
+  width: 6rem;
+}
+
+footer {
+  width: 100%;
+  background-color: var(--primary);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+footer h2 {
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+.text-input {
+  border-radius: 2rem;
+  height: 30px;
+  width: 100%;
+  font-family: "Ubuntu", sans-serif;
+  padding: 10px;
+  outline: none;
+  border: 0;
+  font-size: 1rem;
+
+  transition: all 0.5s ease-in-out 0.2s;
+}
+
+.text-input:hover {
+  box-shadow: 0px 0px 10px white;
+
+  transition: all 0.5s ease-in-out;
+}
+
+textarea.text-input {
+  width: 50%;
+  border-radius: 1rem;
+  resize: none;
+  height: 100px;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+#send-suggestion-btn {
+  margin-bottom: 2rem;
+}
+
+/* taille tablette */
+@media (max-width: 1000px) {
+}
+
+/* taille smartphone */
+@media (max-width: 700px) {
+}

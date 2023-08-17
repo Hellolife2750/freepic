@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="desciption" content="dessin vectoriels SVG gratuits">
+    <!-- <link rel="manifest" href="res/data/manifest/manifest.webmanifest"> -->
+
+    <!-- charger la police d'écriture -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap" rel="stylesheet">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Phudu:wght@500&family=Ubuntu:wght@300&display=swap"
+        rel="stylesheet">
+
+    <!-- charger le style -->
+    <link href="css/reset.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- charger les icônes (font awesome)-->
+    <script src="https://kit.fontawesome.com/bf31f3517c.js" crossorigin="anonymous"></script>
+
+    <link rel="shortcut icon" href="res/img/icon.ico"> <!-- charger la miniature -->
+
+    <title>Freepic - dessin vectoriel gratuit</title>
+</head>
+
+<body>
+
+    <!-- popup des dessins -->
+    <div id="draws-popup">
+        <div id="popup-card">
+            <div class="left">
+                <img class="preview" src="res/data/SVGs/dinosaur_egg.svg" alt="preview de l'image à télécharger">
+            </div>
+            <div class="right">
+                <h2 class="title">Title</h2>
+                <div class="dl-buttons-container">
+                    <a id="dl-svg-link" href="res/data/SVGs/dinosaur_egg.svg" download><button id="dl-svg-btn"
+                            class="classic-button dl-draw"><i class="fa-solid fa-download"></i>
+                            SVG</button></a>
+                    <button id="dl-png-btn" class="classic-button dl-draw"><i class="fa-solid fa-download"></i>
+                        PNG</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- bouton retourner en haut de page -->
+    <div id="top-button">
+        <i class="fa-solid fa-arrow-up top-btn"></i>
+    </div>
+
+
+
+    <!-- barre de navigation de haut de page -->
+    <header>
+        <div class="center">
+            <h1><a href="#">freepic</a></h1>
+            <input placeholder="Rechercher..." class="text-input" id="search-input" name="search" type="text">
+        </div>
+    </header>
+
+    <!-- tout le contenu restant de la page -->
+    <main id="principal">
+        <!-- <div class="card" onclick="handleClick(this)">
+            <img alt="caca" src="res/data/SVGs/caca.png">
+        </div> -->
+    </main>
+
+    <footer id="footer">
+        <h2>Suggérer un dessin</h2>
+        <textarea class="text-input" id="suggestion-input" name="Suggestion"></textarea>
+        <button id="send-suggestion-btn" class="classic-button">Envoyer</button>
+        <h3>Mis à jour en août 2023</h3>
+    </footer>
+
+    <!-- charger le js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.7.1/gsap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/canvg/1.5/canvg.min.js"></script>
+    <script src="https://html2canvas.hertzen.com/dist/html2canvas.min.js"></script>
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>
