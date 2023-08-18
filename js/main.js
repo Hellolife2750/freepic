@@ -101,6 +101,12 @@ function downloadToPNG() {
     canvas.height = dlContestImg.height;
 
     const ctx = canvas.getContext("2d");
+
+    //mise à l'échelle
+    const scaleX = dlContestImg.width / dlContestImg.naturalWidth;
+    const scaleY = dlContestImg.height / dlContestImg.naturalHeight;
+    ctx.scale(scaleX, scaleY);
+
     ctx.drawImage(dlContestImg, 0, 0);
 
     canvas.toBlob(function (blob) {
@@ -111,7 +117,7 @@ function downloadToPNG() {
         link.click();
         // Libérer la ressource URL
         URL.revokeObjectURL(link.href);
-    }, "draw/png");
+    }, "image/png");
 }
 
 dlPngBtn.addEventListener('click', () => {
