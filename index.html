@@ -33,9 +33,12 @@
 
 <body>
 
+    <img id="dl-contest-img" src="res/data/SVGs/dinosaur_egg.svg" alt="image permettant de télécharger au format PNG">
+
     <!-- popup des dessins -->
     <div id="draws-popup">
         <div id="popup-card">
+            <canvas id="canvas"></canvas>
             <div class="left">
                 <img class="preview" src="res/data/SVGs/dinosaur_egg.svg" alt="preview de l'image à télécharger">
             </div>
@@ -45,17 +48,24 @@
                     <a id="dl-svg-link" href="res/data/SVGs/dinosaur_egg.svg" download><button id="dl-svg-btn"
                             class="classic-button dl-draw"><i class="fa-solid fa-download"></i>
                             SVG</button></a>
-                    <button id="dl-png-btn" class="classic-button dl-draw"><i class="fa-solid fa-download"></i>
+                    <button onclick="downloadToPNG()" id="dl-png-btn" class="classic-button dl-draw"><i
+                            class="fa-solid fa-download"></i>
                         PNG</button>
+                </div>
+                <div id="resolution-inputs-container">
+                    <input id="wd-resolution-input" class="text-input" type="number" value="150">
+                    <p>x</p>
+                    <input id="hg-resolution-input" class="text-input" type="number" value="150">
+                    <p>px</p>
                 </div>
             </div>
         </div>
     </div>
 
     <!-- bouton retourner en haut de page -->
-    <div id="top-button">
+    <!-- <div id="top-button">
         <i class="fa-solid fa-arrow-up top-btn"></i>
-    </div>
+    </div> -->
 
 
 
@@ -63,7 +73,7 @@
     <header>
         <div class="center">
             <h1><a href="#">freepic</a></h1>
-            <input placeholder="Rechercher..." class="text-input" id="search-input" name="search" type="text">
+            <input placeholder="Search..." class="text-input" id="search-input" name="search" type="text">
         </div>
     </header>
 
@@ -75,10 +85,10 @@
     </main>
 
     <footer id="footer">
-        <h2>Suggérer un dessin</h2>
+        <h2>Suggest a drawing</h2>
         <textarea class="text-input" id="suggestion-input" name="Suggestion"></textarea>
-        <button id="send-suggestion-btn" class="classic-button">Envoyer</button>
-        <h3>Mis à jour en août 2023</h3>
+        <button id="send-suggestion-btn" class="classic-button">Send</button>
+        <h3>Updated on august 2023</h3>
     </footer>
 
     <!-- charger le js -->

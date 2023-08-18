@@ -86,6 +86,34 @@ function closeCardPopup() {
 const dlSvgBtn = document.getElementById("dl-svg-btn");
 const dlPngBtn = document.getElementById("dl-png-btn");
 
+const canvas = document.getElementById("canvas");
+const dlContestImg = document.getElementById("dl-contest-img");
+
+const wdResolutionInput = document.getElementById("wd-resolution-input");
+const hgResolutionInput = document.getElementById("hg-resolution-input");
+
+function downloadToPNG() {
+    dlContestImg.src = cards[currentProjectIndex].link;
+    dlContestImg.width = wdResolutionInput.value;
+    dlContestImg.height = hgResolutionInput.value;
+
+    canvas.width = dlContestImg.width;
+    canvas.height = dlContestImg.height;
+
+    const ctx = canvas.getContext("2d");
+    ctx.drawImage(dlContestImg, 0, 0);
+
+    canvas.toBlob(function (blob) {
+        const link = document.createElement("a");
+        link.href = URL.createObjectURL(blob);
+        link.download = "draw.png";
+
+        link.click();
+        // Libérer la ressource URL
+        URL.revokeObjectURL(link.href);
+    }, "draw/png");
+}
+
 dlPngBtn.addEventListener('click', () => {
     /*var canvas = document.createElement("canvas");
     canvg(canvas, pupPreview.outerHTML);
