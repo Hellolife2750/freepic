@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="zzz - Copie - Copie (4).svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1417559"
+     inkscape:cx="15.874825"
+     inkscape:cy="88.945712"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5872"
+       id="linearGradient5874"
+       x1="-208.52602"
+       y1="36.136738"
+       x2="-201.17218"
+       y2="38.36916"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6422469,0,0,4.6422469,972.40096,-149.13889)" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5872">
+      <stop
+         style="stop-color:#00db5c;stop-opacity:1"
+         offset="0"
+         id="stop5868" />
+      <stop
+         style="stop-color:#007a03;stop-opacity:1"
+         offset="1"
+         id="stop5870" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient5874);fill-opacity:1;stroke:#000000;stroke-width:0.696337;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.05014,10.775839 c 1.0625636,-0.8685134 1.5045986,-1.7370222 5.319597,-2.6055355 3.070893,-1.5976106 6.29354,-3.5746368 8.250898,-2.3884174 1.483709,0.3726795 2.967418,0.4825058 4.451126,1.9541538 l -1.411336,0.9770815 c 0.743084,0.6989507 1.128623,1.3457266 2.388389,2.6055356 l 1.954153,0.759949 -1.302752,0.325701 c 0.505355,0.514709 0.09005,0.338837 1.628453,1.628463 l 3.148372,2.714103 -1.085636,0.434236 2.38839,2.388403 -0.217258,0.977081 c 0.773724,1.454407 1.873147,3.071669 3.799727,5.102503 l 1.954153,3.908303 -1.628454,-0.651382 h -1.628454 l -1.3028,-0.434235 c -0.382521,-0.764749 -4.861964,0.133789 -4.668243,0.75995 0.23629,0.763269 -6.275622,-0.09067 -6.079579,1.085635 -1.519873,-0.208808 -3.03979,-2.051027 -4.559662,1.194205 -1.782205,-0.530531 -3.716397,-1.466491 -4.668289,0.217117 C 12.175134,31.24362 9.5440014,26.913556 9.004154,30.425922 8.21539,28.363204 8.1249127,26.300487 4.878729,24.23777 Z"
+       id="path3573"
+       sodipodi:nodetypes="ccccccccccccccccccscccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 7.4483059,12.147144 c 0.1021289,0 0.213079,0.04039 0.3068525,0 0.099808,-0.04271 0.1420527,-0.167213 0.2302553,-0.230301 0.1634068,-0.116799 0.6620302,-0.201428 0.767642,-0.307085 0.051525,-0.05172 0.04178,-0.09702 0.153658,-0.153519 0.222828,-0.111414 0.7594719,0 0.9979896,0 0.027853,0 1.1392547,-0.07061 1.1514637,-0.07678 0.01393,-0.006 0.07659,-0.138153 0.153658,-0.153518 0.125342,-0.02507 0.262287,0.04038 0.383914,0 0.311959,-0.103898 -0.0046,-0.04271 0.307318,-0.230303 0.165263,-0.09911 0.388091,-0.11081 0.53734,-0.230302 0.150872,-0.120744 0.476712,-0.323192 0.614122,-0.460603 0.04178,-0.04039 0.02785,-0.121859 0.07659,-0.153519 0.04178,-0.02832 0.107699,0.02275 0.153658,0 0.02321,-0.01115 0,-0.0512 0,-0.07678 0.02785,-0.02554 0.04642,-0.06054 0.07659,-0.076781 0.103981,-0.051949 0.276213,-0.1871753 0.383913,-0.2303017 0.04735,-0.019032 0.104918,0.016253 0.153658,0 0.459119,-0.1531008 0.84359,-0.3989542 1.305028,-0.537363 0.163408,-0.049117 0.981001,-0.2218062 1.151509,-0.3070843 0.02321,-0.011142 -0.01857,-0.058725 0,-0.076783 0.174549,-0.1744556 0.6657,-0.4522013 0.921208,-0.5373633 0.330993,-0.1104389 0.729297,-0.2207387 1.074727,-0.3070846 0.472906,-0.1181452 1.074355,0.1536584 1.535331,0 0.320315,-0.1067252 0.613146,-0.2303018 0.997943,-0.2303018"
+       id="path5637"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.97957,13.836004 c 0.793221,0 1.586488,0 2.379755,0 0.858352,0 1.761083,0.06472 2.610057,-0.07678 0.502895,-0.08375 -0.0093,-0.03343 0.383914,-0.230302 0.166657,-0.08328 0.370916,-0.07023 0.537387,-0.15352 0.377878,-0.188846 0.731524,-0.462088 1.074726,-0.690895 0.06638,-0.04411 1.311574,-0.282575 1.458548,-0.307085 0.623035,-0.103803 1.197931,-0.383822 1.842367,-0.383822 0.287356,0 2.422047,-0.03436 2.456539,0 0.05756,0.05748 0.07659,0.212105 0.07659,0.307039"
+       id="path5752"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.967326,17.751083 c 1.557474,-0.51657 3.1558,-0.948633 4.75951,-1.305027 0.672987,-0.149527 0.339348,0.0088 1.15151,-0.230303 0.209829,-0.06164 0.404804,-0.167491 0.614122,-0.230301 0.133697,-0.04038 0.33285,-0.013 0.460511,-0.07678 0.233969,-0.117031 -0.140195,-0.06091 0.230256,-0.153519 0.348632,-0.08718 0.967165,-0.05836 1.305028,0.07678 0.135089,0.05403 0.142053,0.230303 0.306853,0.230303"
+       id="path5754"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.031864,20.591438 c 1.45191,0.843616 4.601907,-2.509055 6.832227,-1.765628"
+       id="path5756"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 25.027798,21.435867 c 0.442872,0.443009 0.783333,0.752764 1.15151,1.305029 0.983367,1.475078 0.205187,0.470301 0.767642,1.688858 0.05339,0.116196 0.166657,0.195996 0.230255,0.307085 0.132305,0.231974 0.165264,0.508488 0.230256,0.767661 0.201009,0.803359 -0.167122,1.858913 0.614123,2.379755"
+       id="path5758"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.805675,20.13084 c 0.555306,2.041492 1.449959,3.406029 1.995888,5.911004 0.0636,0.291579 -0.31753,0.505689 -0.460512,0.767665 -0.135089,0.247572 9.3e-5,1.612178 0.230255,1.842392"
+       id="path5762"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.583506,18.288447 c 0.117448,0.596394 0.335634,1.172078 0.46051,1.765627 0.09795,0.464331 0.1077,0.846714 0.153658,1.305025 0.09517,0.950639 0.04642,-0.226403 0.153659,0.537368 0.01393,0.10134 -0.01857,0.206672 0,0.307084 0.0093,0.03528 0.06963,0.04132 0.07659,0.07678 0.07659,0.38382 -0.03714,0.19191 0,0.460603 0.06731,0.472781 0.153658,0.900304 0.153658,1.381793 0,0.709958 -0.0947,1.640918 0.153658,2.30299 0.03249,0.08635 0.102129,0.15352 0.15366,0.230302 0.05106,0.127941 0.11002,0.253096 0.153657,0.383822 0.0325,0.100086 0.02785,0.212707 0.07659,0.307084 0.0325,0.06472 0.116521,0.0915 0.153658,0.153519 0.113735,0.189497 0.02321,0.251284 0.153658,0.383821"
+       id="path5764"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.51691,15.755159 c 0.103982,0.650731 0.348632,1.270833 0.460511,1.91916 0.200081,1.160989 0.03714,2.36634 0.153659,3.531251 0.04178,0.414043 0.22747,0.83099 0.306852,1.228259 0.115592,0.577762 0.0701,1.181257 0.153658,1.765624 0.07474,0.524123 0.05478,-0.01114 0.153659,0.383821 0.155979,0.62426 -0.105844,1.35983 0,1.995924 0.06407,0.384703 0.186154,0.78831 0.306853,1.151496 0.07102,0.212521 0.153658,0.232576 0.153658,0.460603"
+       id="path5766"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.464225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 8.5998144,13.68247 c 0.051067,0.230302 0.1021289,0.460604 0.1536589,0.690897 0.076595,0.153519 0.1829046,0.295525 0.2302553,0.460603 0.2386112,0.835767 0.076595,2.037092 0.076595,2.917118 0,1.627177 -0.018573,3.198787 -0.1536588,4.836279 -0.00243,0.03621 -0.065454,0.04225 -0.076595,0.07678 -0.01393,0.04851 0.023207,0.107701 0,0.15352 -0.00928,0.02275 -0.058957,-0.01811 -0.076595,0 -6.965e-4,7.23e-4 -0.057563,0.326395 -0.076595,0.38382 -0.037137,0.115453 -0.02785,1.228153 0,1.305028 0.086807,0.26043 0.2302553,0.50607 0.2302553,0.767665"
+       id="path5768"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#1dd400;stroke-width:0.928448;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.92316326,7.6179319 C 9.8390627,15.26789 19.208278,19.926793 29.557006,22.664131"
+       id="path4524"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Leaves/leaf0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

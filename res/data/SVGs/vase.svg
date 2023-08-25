@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="zzz.svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1417559"
+     inkscape:cx="69.569087"
+     inkscape:cy="27.314037"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#cf561c;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 16.016666,6.4549285 C 15.194811,5.3519905 14.009609,5.117935 12.544648,5.5528429 c -1.662924,0.7477487 -1.574927,2.1208239 -0.902086,3.7027629 0.734459,1.7905702 1.079825,3.4190242 1.143365,4.9300342 -0.612692,0.819578 -1.283444,1.684316 -1.657336,2.318165 l 3.534925,-3.367097 c -0.917054,-1.966087 -2.766385,-4.3080982 -2.118868,-5.643325 0.314197,-0.9283441 0.959658,-1.2689542 2.13987,-0.6608298 0.394671,0.4984922 0.675897,1.155799 1.19578,1.4790074 z"
+       id="path10498-3"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/pottery0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#cf561c;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 24.383894,6.4679297 c 0.821855,-1.1029491 2.007057,-1.3369935 3.472018,-0.9020856 1.662935,0.7477376 1.574927,2.1208239 0.902085,3.7027627 -0.734458,1.7905592 -1.079813,3.4190132 -1.143341,4.9300352 0.612669,0.819577 1.283421,1.684315 1.657324,2.318164 L 25.737044,13.149698 C 26.654098,11.183622 28.50344,8.8415888 27.855912,7.5063842 27.541715,6.578029 26.896254,6.2374301 25.716053,6.8455544 c -0.394659,0.4984922 -0.675908,1.155799 -1.19578,1.4790075 z"
+       id="path10498"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/pottery0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#cf561c;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.97349,32.221018 c 0.498658,1.67167 2.5841,3.312837 0.461521,5.034922 3.122974,0.9308 6.373505,1.019897 9.776161,0.104899 -2.575233,-1.615375 -0.279215,-3.230762 0.104899,-4.846115 -1.286578,1.392776 -2.9234,2.285217 -4.992985,2.559409 -2.220922,-0.184995 -4.023671,-1.101849 -5.349596,-2.853115 z"
+       id="path3176"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/pottery0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#e87b2e;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.393063,37.173388 c -0.717202,0.360868 -0.927699,0.778029 -0.755227,1.23774 3.648601,0.91222 7.393745,0.7045 11.181727,0 0.358467,-0.387604 -0.0067,-0.815422 -0.65035,-1.258731 -1.464595,0.707034 -3.362353,0.671497 -5.20275,0.73427 -1.653112,-0.07234 -3.323915,-0.121978 -4.5734,-0.713279 z"
+       id="path9098"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/pottery0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#e87b2e;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 13.516362,1.8521585 c 4.50545,-1.52951184 8.953817,-1.11792834 13.380526,0.029558 l -1.246085,3.3525403 c -0.432397,0.407672 -0.904986,0.8038541 -0.801043,1.3647739 0.272937,2.2321011 0.03056,4.6550653 1.275754,6.5270763 1.344917,1.08788 2.510461,2.265437 3.619566,3.471229 0.899119,4.098155 -0.51006,8.042441 -1.928461,11.986104 -0.816833,1.42728 -1.409089,2.92191 -2.581167,4.242613 -1.415134,1.187269 -2.810711,2.401206 -5.073348,2.43282 -2.27836,-6.78e-4 -3.801583,-1.305702 -5.221662,-2.788842 -1.917604,-3.110329 -3.353418,-6.443001 -4.242591,-10.027974 -0.305163,-1.883668 -0.7513719,-3.741222 -0.02956,-5.815052 0.625582,-1.418645 2.236701,-2.36798 3.649235,-3.41189 0.850392,-1.270876 1.066902,-3.070014 1.216394,-4.92499 C 15.545477,7.2731065 15.917757,6.0364666 15.088912,5.5309519 14.410347,4.6752152 14.016554,3.1360692 13.516429,1.8520807 Z"
+       id="path9456"
+       sodipodi:nodetypes="cccccccccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/pottery0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#cf561c;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.115748,5.607937 c 0.509415,0.297006 0.403805,0.594023 0.535739,0.8910179 3.227451,-0.4457534 6.310677,-0.4345301 9.20214,0.1843619 -0.0089,-0.4361303 0.126079,-0.8439245 0.535729,-1.1982803 C 21.96482,4.9081706 17.957039,4.5110218 15.115748,5.607937 Z"
+       id="path15805"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/pottery0.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

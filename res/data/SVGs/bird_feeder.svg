@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="garden_lamp - Copie.svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.0289002"
+     inkscape:cx="62.729039"
+     inkscape:cy="70.487631"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1004">
+      <path
+         style="fill:#c7ab7a;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 24.136394,8.9585096 27.217334,8.9438006 27.202714,9.430271 24.092285,9.34184 Z"
+         id="path112585"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e7d0a8;fill-opacity:1;stroke:#000000;stroke-width:0.133717;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 14.141763,8.0740358 24.431221,8.1919651 V 9.5923893 L 14.068059,9.3417863 Z"
+         id="path100394"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c7ab7a;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 16.944252,34.741939 c 0.909889,-0.444163 2.345962,-0.631357 5.628779,0.08335 2.597768,0.482904 2.462545,1.545542 3.418985,2.37661 -1.079049,1.177518 -2.304857,2.190663 -4.753202,1.834566 -1.855462,0.09745 -3.68788,0.102757 -5.37863,-0.458639 -0.955023,-0.370422 -2.035632,-0.579377 -2.626794,-1.417629 1.033131,-1.166696 1.981566,-2.483236 3.710862,-2.418258 z"
+         id="path97968"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c7ab7a;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 17.605223,10.591699 -0.02077,0.38046 3.559691,0.08861 0.03129,-0.385675 z"
+         id="path98501"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e7d0a8;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 13.680699,9.1844998 -0.02077,1.3342352 11.153365,0.229315 0.04172,-1.3759278 z"
+         id="path100372"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#7e7e7e;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 13.680699,3.7224745 -0.729656,1.0840682 6.817101,-3.5440638 0.08335,-0.64627082 z"
+         id="path100374"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#7e7e7e;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 19.663899,1.3250226 26.064063,5.3068751 25.584564,4.3062015 19.851521,0.61620808 Z"
+         id="path100376"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 12.977198,4.8456772 13.154096,5.5237814 19.62554,2.1774936 19.71397,1.2782753 Z"
+         id="path100378"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#afafaf;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 19.684509,1.3372444 26.155953,5.3763721 25.831645,5.9955073 19.56658,2.162758 Z"
+         id="path100380"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ae8233;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 13.625822,5.3911077 25.522082,5.8480891 19.610804,2.2069826 Z"
+         id="path100382"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c39a53;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 14.348142,9.1501524 0.309572,-0.7665534 9.36075,0.2653474 0.235859,0.6486153 z"
+         id="path100384"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c7ab7a;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 13.566853,5.3616276 1.20879,3.8180049 0.987667,0.014709 -1.164565,-3.7737892 z"
+         id="path100386"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c7ab7a;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 22.957083,9.2828261 1.488883,-3.4789616 1.002403,0.058924 -1.754212,3.5084417 z"
+         id="path100388"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c39a53;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 14.587566,5.4006907 0.677534,0.03129 0.906867,3.1166874 -0.646262,-0.062579 z"
+         id="path100390"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c39a53;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 23.770857,5.7967953 -1.198744,2.7622846 0.698385,0.08335 1.229997,-2.8352493 z"
+         id="path100392"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e7d0a8;fill-opacity:1;stroke:#000000;stroke-width:0.178289;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 18.496454,10.998225 h 1.667795 l -0.02077,25.293205 c -0.533075,0.144441 -1.07485,0.197473 -1.646953,-0.06784 z"
+         id="path97966"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#c17b00;fill-opacity:1;stroke:#000000;stroke-width:0.0445722;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 17.252754,9.0221944 0.938139,0.093816 0.156351,-0.1667805 0.448236,0.03129 0.125079,0.1355085 1.511444,0.01043 0.125079,-0.093807 0.646262,0.06258 0.05215,-0.05215 h 0.239754 l -0.04172,-0.302289 -0.343982,-0.04172 -0.239754,-0.31271 -0.229324,0.06258 -0.09381,0.03129 -0.218903,-0.2189032 -0.218903,-0.01043 -0.01034,-0.1772014 -0.427359,-0.02086 -0.08335,0.281438 -0.16678,-0.02086 -0.375254,-0.1250875 -0.14593,0.2397451 -0.16678,-0.2293152 -0.187622,-0.01043 -0.125079,0.2397451 -0.1355,0.1250876 -0.208482,-0.1459295 -0.469078,-0.01043 0.05215,0.1563594 -0.177201,0.02086 -0.135509,-0.04172 -0.14592,0.04172 -0.177202,0.04172 -0.239754,-0.03129 -0.104254,0.08335 0.05215,0.1250875 0.385684,0.02086 -0.05215,0.1355086 z"
+         id="path110832"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/manger.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>

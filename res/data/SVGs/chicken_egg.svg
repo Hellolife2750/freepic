@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="wifi_logo - Copie.svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1417559"
+     inkscape:cx="50.425915"
+     inkscape:cy="61.865128"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21080"
+       id="radialGradient21082"
+       cx="151.10187"
+       cy="-233.59721"
+       fx="151.10187"
+       fy="-233.59721"
+       r="2.6114693"
+       gradientTransform="matrix(0.94875952,0,0,2.0426235,-125.17164,480.01572)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient21080">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="0"
+         id="stop21076" />
+      <stop
+         style="stop-color:#fce28e;stop-opacity:1"
+         offset="1"
+         id="stop21078" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient21080"
+       id="radialGradient22922"
+       cx="237.60031"
+       cy="-120.8091"
+       fx="237.60031"
+       fy="-120.8091"
+       r="5.4194708"
+       gradientTransform="matrix(0.94875952,0,0,0.55113768,-210.39164,99.611983)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#fce28e;fill-opacity:1;stroke:#000000;stroke-width:0.7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.795045,0.92365643 C 13.848232,2.5563008 10.718844,7.8237947 7.7499097,13.412197 5.8679598,18.377834 3.7122359,23.210093 6.3065049,30.356444 c 1.6863157,3.284046 4.0352831,6.015876 7.8445621,7.530779 4.389161,1.443481 8.494936,1.328301 12.174757,-1.129612 3.749725,-2.424754 6.568443,-5.684208 6.903212,-11.170657 C 33.480097,21.884335 32.84736,17.887107 30.969812,13.474948 29.097568,9.5982501 26.608175,6.1182856 23.564545,2.9946182 22.195675,2.0833347 20.854148,1.1447079 18.795045,0.92365643 Z"
+       id="path19138"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Frog Evolution\Sprites\Status/egg.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <ellipse
+       style="fill:url(#radialGradient21082);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path20886"
+       cx="18.187698"
+       cy="2.864579"
+       rx="2.4776559"
+       ry="5.3342481"
+       transform="rotate(25.796622)" />
+    <path
+       style="fill:url(#radialGradient22922);fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.260166,31.92536 c 1.043446,1.84974 2.934504,2.620692 4.581228,3.702629 1.929558,0.53807 3.636614,0.408584 5.334296,0.251023 -0.380756,-0.92893 0.681712,-1.63236 -1.380645,-2.824039 -1.404021,-0.34977 -2.149557,-0.864169 -4.392946,-1.004101 -0.963683,-0.851208 -1.659836,-1.936494 -3.514366,-2.008211 -1.066482,0.154572 -1.2769358,0.781446 -0.627567,1.882699 z"
+       id="path22515"
+       sodipodi:nodetypes="ccccccc" />
+  </g>
+</svg>

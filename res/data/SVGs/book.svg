@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="zzz - Copie - Copie (2).svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1417559"
+     inkscape:cx="61.631674"
+     inkscape:cy="59.530594"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#d6d6d6;fill-opacity:1;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 2.2521932,15.722215 C 5.8774983,14.454853 7.4391145,10.495718 13.836506,12.844126 l 8.706218,8.34646 c -5.635889,0.17637 -9.697688,2.451543 -13.7428722,4.748848 z"
+       id="path57699"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#d6d6d6;fill-opacity:1;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.021109,12.945049 c 2.511828,-2.9591494 7.42489,-1.916249 11.396664,-2.44214 l 10.836996,7.631688 c -4.99752,0.325387 -10.781323,-0.410728 -13.228263,3.357943 z"
+       id="path58057"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ba7c00;fill-opacity:1;stroke:#fb0303;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.88510236,17.844806 C 3.2637545,21.910527 5.52903,26.157683 8.2242298,29.716927 12.384022,28.045525 16.45388,26.392113 20.276234,24.788198 c 0.1143,-0.12593 -0.101378,-0.0069 -0.627327,-0.645013 -4.547965,0.585413 -7.382231,2.34107 -10.6692521,4.386528 C 6.3884941,24.938496 3.6438054,21.566595 1.4966143,17.341141 1.1865586,17.216918 0.92636104,17.22984 0.88510236,17.844806 Z"
+       id="path61488"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#d6d6d6;fill-opacity:1;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 1.9463373,15.921937 c -0.98542475,1.30051 -0.735888,1.422377 -0.5429474,1.780198 2.2685675,3.995336 4.7221684,7.69989 7.3264205,11.167703 C 8.794883,28.017733 8.8482638,27.330287 8.958764,25.842601 6.8092037,22.550169 4.7003177,19.260863 1.9463373,15.921937 Z"
+       id="path58883"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ba7c00;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.866517,22.305845 c -0.664569,0.635305 -1.036683,1.35037 -1.331125,2.086616 l 1.511006,0.503665 2.139668,-1.20866 -0.664662,-1.129788 C 24.135723,22.32161 23.656432,22.171359 22.866517,22.305845 Z"
+       id="path64347"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#d6d6d6;fill-opacity:1;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 8.984193,25.86804 c 4.108549,-2.474967 8.363288,-4.631768 13.609851,-4.629891 0.290487,-0.0067 0.589298,-0.02327 0.483336,0.432463 -0.322024,1.173356 -0.884109,1.946616 -1.399135,2.798285 -2.76581,-0.100855 -5.411936,-0.324664 -12.9993081,4.528136 z"
+       id="path59355"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ba7c00;fill-opacity:1;stroke:#cf2323;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 36.645357,19.175924 c 1.354799,0.884951 1.895193,1.607021 2.302473,2.302471 -1.053189,0.451005 -4.313319,0.791665 -7.195215,1.151236 -2.517873,-0.07133 -4.639419,0.385752 -6.58364,1.079284 -0.378806,-0.06194 -0.346484,-0.288323 -0.251829,-0.539641 2.190127,-1.481348 6.024848,-2.295971 11.764193,-2.338448 0.321086,-0.967983 -0.01385,-1.116519 -0.036,-1.654902 z"
+       id="path63795"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#d6d6d6;fill-opacity:1;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 23.07738,21.49254 c 2.900617,-4.048641 8.394179,-2.722704 13.075626,-3.332504 0.267151,0.06346 0.818052,2.639522 0.686845,2.900041 -5.103188,0.134652 -9.341329,0.74989 -12.007176,2.238628 -0.280627,-0.825339 -0.899168,-1.182804 -2.060566,-0.788608 z"
+       id="path59854"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4.2016748,16.659137 c 0.3286083,-0.08359 0.5640691,-0.379841 0.8649254,-0.508779 1.3600759,-0.58289 -0.376805,0.291528 0.7122896,-0.203512 0.1800491,-0.08184 0.3280544,-0.224943 0.5087804,-0.305268 0.2058168,-0.09148 0.447031,-0.182931 0.6614162,-0.254389 0.2497676,-0.08326 0.5066269,-0.144313 0.7631631,-0.203513 0.066149,-0.01523 0.1370676,0.01323 0.203509,0 0.1996018,-0.03992 0.3713285,-0.140728 0.559654,-0.203512 0.2548748,-0.08497 0.5498546,-0.178903 0.8140519,-0.254389 0.032614,-0.0094 0.071379,0.01523 0.1016853,0 0.04292,-0.02144 0.058919,-0.08031 0.1016854,-0.101762 0.4544149,-0.227205 0.9386119,-0.294876 1.4245789,-0.407022 0.209032,-0.04825 0.402419,-0.151483 0.610542,-0.203512 0.254999,-0.06375 0.556271,0.05155 0.814052,0 0.292304,-0.05845 -0.01538,-0.05087 0.152606,-0.05087"
+       id="path64746"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 6.0841612,18.643375 c 0.3197473,-0.106578 0.2654894,-0.03793 0.4578916,-0.254388 0.2807654,-0.315855 0.5232719,-0.821295 0.9158141,-1.017558 0.2583669,-0.129192 0.5353326,-0.117793 0.8140364,-0.152636 0.3905733,-0.04882 0.7832694,-0.08815 1.1701967,-0.152636 0.2665357,-0.04443 0.547424,-0.0064 0.814052,-0.05087 0.446616,-0.07444 -0.07784,-0.0187 0.254382,-0.101762 0.156666,-0.03917 0.356068,0.0509 0.508781,0 0.01231,-0.0042 0.221338,-0.136113 0.254382,-0.152635"
+       id="path64750"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 19.108899,14.420507 c 0.559668,-0.288307 1.130276,-0.556279 1.678977,-0.864923 0.293779,-0.16525 0.669107,-0.553488 1.068433,-0.610535 0.414372,-0.0592 0.346038,0.02271 0.712291,0.05087 0.352806,0.02714 1.142013,0.03249 1.475467,-0.05087 0.415911,-0.103978 0.754241,-0.377121 1.119309,-0.559658"
+       id="path64752"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.407024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22.924744,17.167916 c 0.559653,-0.152636 1.133277,-0.261095 1.678977,-0.457901 0.76264,-0.275053 1.499328,-0.725189 2.238631,-1.068437 0.317102,-0.147236 0.649233,-0.26051 0.966673,-0.407024 0.230783,-0.106515 1.160289,-0.610535 1.373706,-0.610535"
+       id="path64754"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects/Interactives\book.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

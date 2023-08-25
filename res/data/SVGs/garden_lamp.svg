@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="lightning - Copie.svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.0289002"
+     inkscape:cx="51.833995"
+     inkscape:cy="72.468547"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#716e6e;fill-opacity:1;stroke:#000000;stroke-width:0.096474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.688234,23.702572 c 0.281811,-1.871412 0.282129,-3.836645 0.02248,-5.88854 l 1.105505,0.112807 3.023262,-0.02257 c -0.204274,1.954534 -0.186773,3.881351 0.0902,5.775733 z"
+       id="path65737"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#fff5b6;fill-opacity:0.546326;stroke:#000000;stroke-width:0.096474;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.613246,17.814032 c -0.0039,-0.180416 0.0077,-0.361141 0,-0.541479 -0.01023,-0.247688 -0.07371,-0.535556 -0.157918,-0.767094 -0.01148,-0.03164 -0.0301,-0.0602 -0.04515,-0.0902 -0.02248,-0.0602 -0.04737,-0.119531 -0.06763,-0.180493 -0.01737,-0.0519 -0.02065,-0.108958 -0.04515,-0.157928 -0.01428,-0.02856 -0.04997,-0.0411 -0.06772,-0.06772 -0.06502,-0.09758 -0.05036,-0.187082 -0.135362,-0.2933 -0.02344,-0.02933 -0.0658,-0.03917 -0.0902,-0.06772 -0.022,-0.02557 -0.02643,-0.06223 -0.04515,-0.0902 -0.10371,-0.155555 -0.245604,-0.283006 -0.29331,-0.473793 -0.01968,-0.07843 0,-0.189581 0,-0.270735 0,-0.113492 -0.02219,-0.237317 0.04515,-0.338421 0.02344,-0.03541 0.06222,-0.05827 0.0902,-0.0903 0.08413,-0.09609 0.180946,-0.229097 0.29331,-0.2933 0.05383,-0.03078 0.123496,-0.02074 0.180493,-0.04515 0.02499,-0.01071 0.04226,-0.0356 0.06772,-0.04515 0.253716,-0.09512 0.528445,-0.10012 0.789649,-0.180493 0.262737,-0.08085 1.197087,-0.22737 1.443926,-0.0902 0.0848,0.0048 0.09847,0.09971 0.157918,0.135372 0.02045,0.01225 0.04795,0.0096 0.06772,0.02257 0.16359,0.109064 0.180493,0.347442 0.180493,0.518914 0,0.07747 0.0191,0.19427 0,0.270735 -0.01331,0.05258 -0.06329,0.08827 -0.0902,0.135373 -0.04158,0.07274 -0.04766,0.151087 -0.0903,0.225614 -0.01582,0.02769 -0.04997,0.0411 -0.06772,0.06772 -0.01322,0.01978 -0.01071,0.04698 -0.02248,0.06772 -0.03261,0.05711 -0.184497,0.224977 -0.203049,0.24817 -0.09958,0.124499 -0.184989,0.258714 -0.24816,0.406107 -0.0087,0.02074 0.0039,0.04544 0,0.06772 -0.06464,0.388047 0,0.785674 0,1.1732 0,0.0902 0.02778,0.183947 0.04515,0.270735 0.01302,0.06512 -0.011,0.137505 0,0.203059 0.02093,0.125348 0.04505,0.09982 0.04505,0.248169 0,0.01158 0.05277,0.142849 0.02248,0.157928 -0.06319,0.03164 -0.549844,0 -0.676833,0 -0.220848,0 -0.595177,0.04226 -0.789649,-0.02258 -0.03926,-0.01312 -0.09879,0.01833 -0.135392,0 -0.111234,-0.05566 -0.157927,0.04457 -0.157927,-0.112807 z"
+       id="path65772"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#a09f9a;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.943018,35.073563 -1.624409,0.383542 1.263433,1.850043 8.257516,0.518914 5.775732,-1.353684 -2.526885,-1.827487 z"
+       id="path61636"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#a09f9a;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.762525,35.366863 1.12807,1.489057 c 1.351774,-2.151447 2.793491,-4.237262 3.068384,-7.174548 l 0.496349,-4.241565 -0.54147,-0.180493 c 0.04997,1.753231 -0.464512,3.46304 -0.767093,5.189142 -0.771754,1.847322 -1.554418,3.688287 -3.38424,4.918407 z"
+       id="path60486"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.523014,25.484928 1.66954,0.04515 c 0.183233,3.930176 0.518605,7.877264 1.240896,11.867341 l -6.497724,-0.473794 c 1.201303,-1.955054 2.215708,-3.938858 2.865306,-5.978791 z"
+       id="path60882"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#818181;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.282815,25.530059 1.12807,-0.157938 c 0.394801,1.967076 0.566177,3.906231 1.263433,5.911115 0.504781,1.165676 1.233371,2.331351 2.120778,3.497027 0.428093,0.573316 0.941943,0.95982 1.443945,1.263442 -1.485477,0.519407 -2.982454,1.033507 -4.850721,1.37625 l -0.744528,-6.159284 z"
+       id="path61126"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#a09f9a;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 11.194505,35.468393 -0.10152,0.823492 1.319851,1.917729 0.169206,-0.913744"
+       id="path61638"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12.446679,38.299855 8.392879,0.473794 0.02248,-0.947587 -8.302646,-0.54147 z"
+       id="path61640"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#818181;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.839558,37.83734 0.01119,0.98143 6.012643,-1.568021 -0.157956,-0.834779 z"
+       id="path61642"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#716e6e;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.763223,24.435822 c 0.272606,0.256071 0.626087,0.495973 1.049087,0.721973 l 0.03386,0.214326 c 1.130829,0.154754 2.276882,0.243549 3.497027,0.01129 l 0.06772,-0.327144 c 1.015437,0.08519 1.154967,-0.368733 1.42138,-0.744528 z"
+       id="path63594"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#716e6e;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.657718,23.431837 1.308553,0.338421 3.203718,0.02257 1.534187,-0.06772 2.177186,-0.06772 -0.01129,0.564045 -7.625766,0.180493 -0.63173,-0.360986 z"
+       id="path63975"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#a09f9a;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 13.597314,9.8949473 15.154057,23.589765 15.966271,23.747702 14.386964,9.7144543 Z"
+       id="path64712"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#818181;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 22.531663,23.634895 24.449392,9.6918983 25.058548,9.7370483 22.93777,23.702601 Z"
+       id="path64714"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#818181;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 14.590022,23.386716 -1.940285,-13.4692037 0.49634,0.1128067 1.759791,13.469204 z"
+       id="path64716"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.6;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 20.784529,9.1370768 3.653324,0.3350155 -1.91441,14.1346907 -2.265382,0.0957 z"
+       id="path64944"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.6;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.056504,23.702572 3.181181,0.02257 0.203058,-14.5521529 -5.09891,0.2933002 z"
+       id="path65554"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#ffffff;fill-opacity:0.6;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 13.123512,9.7821403 14.973564,23.476958 13.484517,9.5790823 Z"
+       id="path65589"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.929131,3.1941837 c -0.476109,0.096609 -0.5724,0.3831367 -0.699427,0.6542865 l -0.02248,0.3609863 1.850052,-0.04515 1.150636,0.1804835 C 20.072146,3.946208 20.039258,3.5476161 19.328003,3.1490339 Z"
+       id="path68989"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#716e6e;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 18.048527,3.149304 c 0.132719,-0.456264 -0.21396,-1.1100488 -0.548078,-1.6246699 0.08441,-0.5090063 0.616825,-0.62595209 1.1732,-0.72196299 0.574956,0.23362139 0.928186,0.53376159 0.902457,0.94758669 -0.384073,0.458753 -0.487194,0.9174964 -0.451238,1.3762494 z"
+       id="path69233"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#818181;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.162037,4.2545774 -0.406107,0.022575 c -0.859467,0.5404182 -1.462661,1.3086405 -1.940294,2.1884638 h -0.315875 l -0.789649,0.7670935 c 0.09984,1.1862246 -0.873234,1.7193687 -2.729914,1.7146705 L 25.103678,8.7894425 24.968296,8.5187076 C 24.012982,8.1465496 23.937829,7.3343063 23.614602,6.6461092 l -0.947577,-0.0903 C 22.420139,5.3062208 21.56509,4.6141166 20.298059,4.2996597 Z"
+       id="path69515"
+       sodipodi:nodetypes="cccccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#b8b8b8;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 19.395612,9.2632262 19.215119,23.725137 h 1.037838 L 20.704176,9.1278539 Z"
+       id="path64710"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#716e6e;fill-opacity:1;stroke:#000000;stroke-width:0.192948;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 10.100278,10.07544 c 0.621389,0.152072 1.465729,0.218388 2.639692,0.157928 4.248289,0.499108 8.366714,0.219034 12.499071,0.02257 0.853254,-0.225991 1.724569,-0.4836047 2.662247,-0.8573349 -0.313357,-0.57293 -1.81152,-0.3814677 -2.729943,-0.5640351 L 20.568813,8.766848 10.957632,9.0375829 C 10.619829,9.3538053 10.163159,9.60211 10.100278,10.07544 Z"
+       id="path64219"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Props\Decoration/lamp.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>

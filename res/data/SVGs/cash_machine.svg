@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="zzz - Copie - Copie (5).svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="3.0289002"
+     inkscape:cx="56.125983"
+     inkscape:cy="54.970448"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6475"
+       id="radialGradient6477"
+       cx="198.69302"
+       cy="104.12563"
+       fx="198.69302"
+       fy="104.12563"
+       r="4.0718355"
+       gradientTransform="matrix(3.5278008,-0.08010675,0.05350042,2.3560909,-691.10899,-219.72193)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient6475">
+      <stop
+         style="stop-color:#9ad2f5;stop-opacity:1;"
+         offset="0"
+         id="stop6471" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="1"
+         id="stop6473" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:0.3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.6304518,34.925924 c 2.2789908,2.611595 0.9530724,2.839716 5.3577293,2.794207 0.1416379,1.97262 8.6966319,1.565272 13.9472779,0.618444 3.7485,1.404691 5.622411,0.0907 8.234337,-0.571086 3.684973,0.05372 6.583281,0.06803 8.080926,-1.753274 -0.832907,-0.728406 -0.148092,-0.570058 -4.636458,-1.779474 -1.544428,-0.168151 -1.17289,-1.991546 -4.678688,-0.982952 -3.629957,-1.413605 -3.249768,0.271641 -4.782753,0.478307 L 3.2681534,33.49116 Z"
+       id="path2938-4"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#a3a3a3;fill-opacity:1;stroke:#000000;stroke-width:0.462242;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 7.8483225,1.1131769 H 24.095907 c 0.245162,6.2889613 2.086035,12.0709061 4.549329,17.6550821 L 28.830918,37.485329 2.9276121,37.219863 3.0204093,18.901 C 5.1134045,13.317523 7.6374706,8.0422292 7.8482702,1.1131769 Z"
+       id="path1380"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:url(#radialGradient6477);fill-opacity:1;stroke:#000000;stroke-width:0.461514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.099683,4.8585185 C 8.4214324,7.9940342 8.052581,11.431699 9.2022544,15.219813 l 11.9114086,0.08163 C 21.83708,12.107688 23.392636,9.4132209 21.032029,4.3690482 17.560665,4.2298524 14.382814,3.57708 10.099683,4.8585185 Z"
+       id="path1822"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#6e6e6e;fill-opacity:1;stroke:#000000;stroke-width:0.461514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.3677421,18.891145 25.845605,18.728052 C 23.834853,23.7814 21.518255,22.484542 13.852597,22.970471 5.0518304,21.739024 4.2078644,22.453807 5.3677421,18.891145 Z"
+       id="path2108"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#6e6e6e;fill-opacity:1;stroke:#000000;stroke-width:0.46224;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498"
+       width="21.701626"
+       height="11.829834"
+       x="4.8782654"
+       y="24.112591"
+       ry="2.0768168"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.174431;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6"
+       width="4.1671853"
+       height="2.2715859"
+       x="20.763777"
+       y="25.372728"
+       ry="0.39879405"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6"
+       width="0.84811246"
+       height="0.84811246"
+       x="5.639111"
+       y="19.319124"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-8"
+       width="0.84811246"
+       height="0.84811246"
+       x="6.8110414"
+       y="19.326923"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-3"
+       width="0.84811246"
+       height="0.84811246"
+       x="8.0080967"
+       y="19.312498"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-2"
+       width="0.84811246"
+       height="0.84811246"
+       x="9.2772827"
+       y="19.32691"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-0"
+       width="0.84811246"
+       height="0.84811246"
+       x="10.546414"
+       y="19.355776"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-9"
+       width="0.84811246"
+       height="0.84811246"
+       x="12.017508"
+       y="19.341349"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-99"
+       width="0.84811246"
+       height="0.84811246"
+       x="13.358797"
+       y="19.39904"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-4"
+       width="0.84811246"
+       height="0.84811246"
+       x="14.815439"
+       y="19.427864"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-03"
+       width="0.84811246"
+       height="0.84811246"
+       x="16.214403"
+       y="19.413465"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-28"
+       width="0.84811246"
+       height="0.84811246"
+       x="17.72875"
+       y="19.384613"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-1"
+       width="0.84811246"
+       height="0.84811246"
+       x="19.07004"
+       y="19.413439"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-88"
+       width="0.84811246"
+       height="0.84811246"
+       x="20.469004"
+       y="19.442291"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-6"
+       width="0.84811246"
+       height="0.84811246"
+       x="21.925673"
+       y="19.442291"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-85"
+       width="0.84811246"
+       height="0.84811246"
+       x="23.353462"
+       y="19.442291"
+       ry="0.14889255"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-22"
+       width="0.81563103"
+       height="0.81563103"
+       x="5.6212516"
+       y="20.684887"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-8-3"
+       width="0.81563103"
+       height="0.81563103"
+       x="6.7483072"
+       y="20.692366"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-3-7"
+       width="0.81563103"
+       height="0.81563103"
+       x="7.8995037"
+       y="20.678499"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-2-9"
+       width="0.81563103"
+       height="0.81563103"
+       x="9.1200886"
+       y="20.692352"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-0-6"
+       width="0.81563103"
+       height="0.81563103"
+       x="10.340619"
+       y="20.720139"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-9-7"
+       width="0.81563103"
+       height="0.81563103"
+       x="11.755368"
+       y="20.706272"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0872154;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-9-7-6"
+       width="4.4229884"
+       height="0.71644765"
+       x="12.732336"
+       y="21.758005"
+       ry="0.1257778"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0539138;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-9-7-6-1"
+       width="1.6150895"
+       height="0.74974936"
+       x="17.309202"
+       y="21.712519"
+       ry="0.13162416"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-99-6"
+       width="0.81563103"
+       height="0.81563103"
+       x="13.045287"
+       y="20.761766"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-4-9"
+       width="0.81563103"
+       height="0.81563103"
+       x="14.446142"
+       y="20.789448"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-03-7"
+       width="0.81563103"
+       height="0.81563103"
+       x="15.791529"
+       y="20.775633"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-28-2"
+       width="0.81563103"
+       height="0.81563103"
+       x="17.247879"
+       y="20.747873"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-1-5"
+       width="0.81563103"
+       height="0.81563103"
+       x="18.537798"
+       y="20.775581"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0650477;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-1-5-2"
+       width="0.63254583"
+       height="0.63254583"
+       x="19.379744"
+       y="21.771139"
+       ry="0.11104821"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0758062;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-1-5-5"
+       width="0.73716593"
+       height="0.73716593"
+       x="11.625881"
+       y="21.675549"
+       ry="0.12941507"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-88-2"
+       width="0.81563103"
+       height="0.81563103"
+       x="19.883184"
+       y="20.803314"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-6-0"
+       width="0.81563103"
+       height="0.81563103"
+       x="21.284067"
+       y="20.803314"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0.0838752;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2498-6-6-85-5"
+       width="0.81563103"
+       height="0.81563103"
+       x="22.657188"
+       y="20.803314"
+       ry="0.14319019"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.0744px;line-height:1.25;font-family:sans-serif;fill:#09dc00;fill-opacity:1;stroke:none;stroke-width:0.181117"
+       x="12.907443"
+       y="13.807278"
+       id="text4059"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan4057"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';fill:#09dc00;fill-opacity:1;stroke-width:0.181117"
+         x="12.907443"
+         y="13.807278">$</tspan></text>
+    <path
+       style="fill:#088803;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 21.399224,26.886478 -1.550114,2.28438 1.672494,0.326343 1.182973,-2.406762 z"
+       id="path8165"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#088803;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 22.622995,27.090439 0.611886,2.2028 1.18299,-0.407924 -0.856647,-2.080419 z"
+       id="path9397"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.68873px;line-height:1.25;font-family:sans-serif;fill:#0adc02;fill-opacity:1;stroke:none;stroke-width:0.0253308"
+       x="8.721014"
+       y="35.887264"
+       id="text12386-5"
+       transform="rotate(-25.454398)"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12384-6"
+         style="fill:#0adc02;fill-opacity:1;stroke-width:0.0253308"
+         x="8.721014"
+         y="35.887264">$</tspan></text>
+    <path
+       style="fill:#088803;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 23.194099,27.702343 1.223772,2.365962 0.938228,-1.509315 -1.509315,-2.284381 z"
+       id="path9432"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.68873px;line-height:1.25;font-family:sans-serif;fill:#0adc02;fill-opacity:1;stroke:none;stroke-width:0.0253308"
+       x="6.3119435"
+       y="37.061089"
+       id="text12386-0"
+       transform="rotate(-30.219145)"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12384-5"
+         style="fill:#0adc02;fill-opacity:1;stroke-width:0.0253308"
+         x="6.3119435"
+         y="37.061089">$</tspan></text>
+    <rect
+       style="fill:#4f4f4f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect9569"
+       width="3.6713281"
+       height="0.65268058"
+       x="20.991291"
+       y="26.300217"
+       ry="0.32634029"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.68873px;line-height:1.25;font-family:sans-serif;fill:#0adc02;fill-opacity:1;stroke:none;stroke-width:0.0253308"
+       x="30.050964"
+       y="18.06819"
+       id="text12386"
+       transform="rotate(22.863005)"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12384"
+         style="fill:#0adc02;fill-opacity:1;stroke-width:0.0253308"
+         x="30.050964"
+         y="18.06819">$</tspan></text>
+    <path
+       style="fill:#088803;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 19.936116,37.028321 3.014809,1.14137 0.02843,-1.182274 -2.875004,-0.868526 z"
+       id="path15803"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.68873px;line-height:1.25;font-family:sans-serif;fill:#0adc02;fill-opacity:1;stroke:none;stroke-width:0.0253308"
+       x="31.213202"
+       y="-28.349501"
+       id="text12386-2"
+       transform="rotate(102.18186)"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan12384-3"
+         style="fill:#0adc02;fill-opacity:1;stroke-width:0.0253308"
+         x="31.213202"
+         y="-28.349501">$</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.461514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 7.0402544,14.077622 c 0,0.231174 0,0.462329 0,0.693485 0,0.182175 0.017618,0.354845 -0.040817,0.530304 -0.1390214,0.417204 -1.1183457,1.044701 -1.5093323,1.305353 -0.040817,0.02721 -0.081634,0.05442 -0.1224505,0.08163 -0.040817,0.01395 -0.085471,0.01866 -0.1224504,0.04082 -0.056516,0.03401 -0.3263426,0.277537 -0.3263426,0.326342"
+       id="path18410"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.461514px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.254691,13.75128 c -0.0614,0.319487 -0.219207,1.475615 -0.12245,1.713294 0.241795,0.593466 0.327075,0.530933 0.652685,0.815848 0.04343,0.03803 0.07291,0.09262 0.12245,0.12245 0.02337,0.01395 0.05721,-0.01221 0.08163,0 0.03436,0.01744 0.04867,0.06175 0.08163,0.08163 0.115299,0.06925 0.287166,0.132916 0.407942,0.163267 0.120008,0.03 0.223027,0.178129 0.326325,0.203962 0.274257,0.06855 -0.03524,-0.105007 0.244761,0.08163"
+       id="path18412"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <circle
+       style="fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.105294;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path68753-1"
+       cx="19.609493"
+       cy="25.736237"
+       r="0.43057954"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       style="fill:#000000;fill-opacity:0.2;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 8.1869799,1.4490312 4.7832942,15.236785 C 12.055925,17.751728 19.210414,17.076803 26.330278,15.467574 25.65694,10.794747 23.732637,6.0642192 23.820794,1.3913766 Z"
+       id="path19532"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="C:\Users\Clément\Desktop\Seed Keeper\Sprites\Objects\Interactives/cashMachine.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
