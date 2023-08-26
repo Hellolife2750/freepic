@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="zzz - Copie (6).svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1417559"
+     inkscape:cx="37.35253"
+     inkscape:cy="71.670167"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g55769"
+       transform="matrix(1.6434622,0,0,1.6434622,2228.1705,-1834.8234)">
+      <circle
+         style="fill:#ffdb66;fill-opacity:1;stroke:#ffc400;stroke-width:0.8913;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path7370-7"
+         cx="-1343.6597"
+         cy="1128.5033"
+         r="11.017559"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Cloud Invasion II\Sprites\Items/gold.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e9b800;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1349.0494,1127.6399 c 0.018,-1.8272 -0.277,-3.6844 2.4714,-5.2407 2.4879,-0.9523 4.4969,-0.4681 6.5213,-0.03 1.5659,0.631 2.4736,1.6322 2.7692,2.9777 0.4563,2.0732 -0.1216,3.7586 -0.923,5.3598 -1.1551,1.2759 -1.5307,2.4959 -1.5782,3.6925 0.041,0.5234 0.079,0.8457 0.1197,1.2208 -0.063,0.2847 -0.3282,0.2969 -0.6254,0.268 h -4.3474 c -0.5521,-0.7089 -1.0764,-1.4661 -1.9355,-1.6377 -0.7941,0.127 -1.5882,0.1694 -2.3822,0.059 -0.4245,-0.1602 -0.4359,-0.4221 -0.5658,-0.6551 -0.018,-0.3193 -0.033,-0.6395 0.4168,-0.804 0.1823,-0.088 -0.085,-0.3998 -0.5359,-0.804 -0.018,-0.1289 0.1694,-0.2409 0.2978,-0.3573 0.018,-0.1491 -0.2085,-0.2803 -0.3573,-0.4169 0.1713,-0.1851 0.5326,-0.2171 0.3871,-0.655 -0.4878,0.018 -0.9582,0 -1.1018,-0.6254 0.835,-1.0055 1.9541,-2.1771 1.3698,-2.3524 z"
+         id="path10818-84"
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Cloud Invasion II\Sprites\Items/gold.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#ffd058;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -1348.8916,1127.8801 c 0.018,-1.6792 -0.2545,-3.3861 2.2716,-4.8166 2.2865,-0.8751 4.1328,-0.4302 5.9933,-0.028 1.4394,0.5799 2.2736,1.5002 2.5453,2.7368 0.4193,1.9053 -0.1124,3.4544 -0.8484,4.9262 -1.0615,1.1723 -1.4068,2.2936 -1.4505,3.3934 0.037,0.481 0.074,0.7773 0.1087,1.1221 -0.057,0.2617 -0.3018,0.2729 -0.5748,0.2464 h -3.9956 c -0.5073,-0.6516 -0.9893,-1.3477 -1.7789,-1.5053 -0.7298,0.1178 -1.4597,0.1565 -2.1895,0.055 -0.3898,-0.1473 -0.4005,-0.3878 -0.5198,-0.602 -0.019,-0.2935 -0.03,-0.5878 0.383,-0.739 0.1676,-0.081 -0.077,-0.3672 -0.4926,-0.7388 -0.018,-0.1197 0.1547,-0.2214 0.2738,-0.3284 0.018,-0.1381 -0.1917,-0.2576 -0.3285,-0.3832 0.1565,-0.1694 0.4895,-0.1995 0.3558,-0.602 -0.4483,0.018 -0.8806,0 -1.0125,-0.5748 0.7674,-0.9241 1.7959,-2.0008 1.2589,-2.162 z"
+         id="path10818-1-0"
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Cloud Invasion II\Sprites\Items/gold.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:17.2169px;line-height:1.25;font-family:sans-serif;fill:#ffc400;fill-opacity:1;stroke:none;stroke-width:0.258253"
+         x="-1344.1913"
+         y="1133.7056"
+         id="text19425-8"
+         inkscape:export-filename="C:\Users\Clément\Desktop\Cloud Invasion II\Sprites\Items/gold.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan19423-6"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Lobster Two';-inkscape-font-specification:'Lobster Two';fill:#ffc400;fill-opacity:1;stroke-width:0.258253"
+           x="-1344.1913"
+           y="1133.7056">$</tspan></text>
+    </g>
+  </g>
+</svg>

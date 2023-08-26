@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="150"
+   height="150"
+   viewBox="0 0 39.687499 39.687501"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="zzz - Copie (3).svg"
+   inkscape:export-filename="C:\Users\Clément\Desktop\freepic\res\img/icon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="2.1417559"
+     inkscape:cx="123.26335"
+     inkscape:cy="60.931314"
+     inkscape:window-width="1920"
+     inkscape:window-height="1013"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-object-midpoints="false"
+     inkscape:snap-center="false" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath168419-0">
+      <path
+         style="fill:#d4d591;fill-opacity:1;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 1976.6629,1120.9601 c -14.9756,1.5925 -25.8038,9.2969 -36.1081,17.7735 -10.8363,13.4703 -17.8314,26.9407 -24.1344,40.4111 -5.0825,17.6623 -6.7297,33.8216 -6.174,49.0172 2.96,13.8998 7.3576,26.531 16.2768,35.1727 10.0404,8.8438 23.2314,13.9465 38.9144,16.0897 14.6068,1.5407 26.9047,-0.7669 39.4757,-2.6193 16.4002,-3.4206 25.6399,-12.8083 33.676,-23.199 4.188,-8.0615 7.6011,-17.2853 8.9802,-29.56 0.1671,-11.8575 -2.4879,-24.9245 -4.6772,-37.7919 -3.678,-11.8565 -9.5794,-24.1299 -18.896,-37.0436 -6.3738,-10.6207 -16.705,-17.504 -27.502,-23.9473 -6.0539,-1.7474 -10.1493,-4.5965 -19.8314,-4.3031 z"
+         id="path168421-4"
+         sodipodi:nodetypes="ccccccccccccc" />
+    </clipPath>
+    <linearGradient
+       x1="-989.37677"
+       y1="-3204.3379"
+       x2="1175.8552"
+       y2="2649.3293"
+       gradientUnits="userSpaceOnUse"
+       id="color-1"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       x1="-3323.7942"
+       y1="-330.77435"
+       x2="2849.8162"
+       y2="585.84308"
+       gradientUnits="userSpaceOnUse"
+       id="color-2"
+       gradientTransform="matrix(0.17670732,0,0,0.17670732,-22.688903,-12.005473)">
+      <stop
+         offset="0"
+         stop-color="#2a221e"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2a221e"
+         stop-opacity="0"
+         id="stop9" />
+    </linearGradient>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect130157"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921382 C 0,2.2364779 2.2364779,0 4.9921382,0 c 2.7556604,0 4.9921383,2.2364779 4.9921383,4.9921382 0,2.7556604 -2.2364779,4.9921383 -4.9921383,4.9921383 C 2.2364779,9.9842765 0,7.7477986 0,4.9921382 Z"
+       copytype="single_stretched"
+       prop_scale="-0.10871279"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect130161"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921382 C 0,2.2364779 2.2364779,0 4.9921382,0 c 2.7556604,0 4.9921383,2.2364779 4.9921383,4.9921382 0,2.7556604 -2.2364779,4.9921383 -4.9921383,4.9921383 C 2.2364779,9.9842765 0,7.7477986 0,4.9921382 Z"
+       copytype="single_stretched"
+       prop_scale="0.13006504"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect130165"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921382 C 0,2.2364779 2.2364779,0 4.9921382,0 c 2.7556604,0 4.9921383,2.2364779 4.9921383,4.9921382 0,2.7556604 -2.2364779,4.9921383 -4.9921383,4.9921383 C 2.2364779,9.9842765 0,7.7477986 0,4.9921382 Z"
+       copytype="single_stretched"
+       prop_scale="0.088241204"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect130169"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921382 C 0,2.2364779 2.2364779,0 4.9921382,0 c 2.7556604,0 4.9921383,2.2364779 4.9921383,4.9921382 0,2.7556604 -2.2364779,4.9921383 -4.9921383,4.9921383 C 2.2364779,9.9842765 0,7.7477986 0,4.9921382 Z"
+       copytype="single_stretched"
+       prop_scale="0.080723702"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect130173"
+       is_visible="true"
+       lpeversion="1"
+       pattern="M 0,4.9921382 C 0,2.2364779 2.2364779,0 4.9921382,0 c 2.7556604,0 4.9921383,2.2364779 4.9921383,4.9921382 0,2.7556604 -2.2364779,4.9921383 -4.9921383,4.9921383 C 2.2364779,9.9842765 0,7.7477986 0,4.9921382 Z"
+       copytype="single_stretched"
+       prop_scale="0.137999"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       hide_knot="false"
+       fuse_tolerance="0" />
+  </defs>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g117531-8-7"
+       transform="matrix(0.22714931,0,0,0.22714931,-14.197105,-114.14307)"
+       inkscape:export-filename="C:\Users\Clément\Desktop\allCollectibles.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <path
+         id="path38725-4-0"
+         style="stroke:#000000;stroke-width:0"
+         d="m 106.57031,511.08984 c -3.04518,0.0681 -6.33197,1.198 -9.863279,3.17774 -0.298261,0.16705 -0.499695,0.46558 -0.542969,0.80469 -1.281077,10.01145 -1.086227,19.97902 -0.798828,29.89453 -0.737218,12.07133 -1.8295,24.62756 -1.402343,35.33203 0.01687,0.41828 0.274198,0.78905 0.660156,0.95117 6.137873,2.58413 12.923583,3.00803 19.716793,3.13867 l 4.19336,5.06641 c 0.55746,0.67219 1.6411,0.43814 1.8711,-0.4043 l 6.35937,-23.29297 c 0.17762,-0.65059 -0.28097,-1.30231 -0.95312,-1.35742 l -4.88477,-0.4043 c -1.00704,-2.47101 -2.09928,-5.0221 -3.24219,-7.62304 l -0.71875,-15.7461 c 0,-10e-4 0,-0.003 0,-0.004 l -0.92578,-19.04883 c 10e-6,-0.002 10e-6,-0.004 0,-0.006 -0.0626,-1.1695 0.0279,-2.69559 -0.0469,-4.06055 -0.0374,-0.68247 -0.10828,-1.32796 -0.32617,-1.93945 -0.2179,-0.61149 -0.6799,-1.28596 -1.44727,-1.52148 l 0.44141,0.26367 c -2.25363,-2.22686 -5.0443,-3.28884 -8.08985,-3.22071 z"
+         sodipodi:nodetypes="ccccccccsscccccccsscccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8f714f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.234371,515.20986 c 6.867119,-3.84986 12.534719,-4.21721 16.668749,-0.13229 1.4266,0.43785 0.92252,4.01305 1.05833,6.54844 l 0.92605,19.05 0.7276,15.94114 c 1.26364,2.87319 2.48358,5.70267 3.57188,8.40052 l 8.0623,1.29971 -7.20291,22.73127 -6.17393,-5.7062 c -6.93576,-0.11816 -13.76552,-0.53315 -19.831399,-3.08697 -0.423375,-10.60971 0.664756,-23.16278 1.403165,-35.26621 -0.288065,-9.92647 -0.480038,-19.85294 0.790165,-29.77941 z"
+         id="path37158-4-6"
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8f714f;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 119.7901,589.2932 -15.67656,-0.92605 c -5.123002,0.80827 -8.717843,2.3474 -9.789586,5.09323 2.037397,25.70868 1.487247,51.41736 2.116667,77.12604 l 27.252079,-0.26458 c 1.17649,-4.05694 0.65636,-8.11389 -0.26458,-12.17083 l -9.39271,-4.63021 c 0.12939,-12.59024 1.21097,-25.02178 2.38125,-37.43854 0.89959,-0.75843 1.83585,-1.26015 2.91042,-0.79375 z"
+         id="path41023-2-4"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8f714f;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 172.90585,592.41986 15.67656,-0.92605 c 5.123,0.80827 8.71784,2.3474 9.78959,5.09323 -2.0374,25.70868 -1.48725,51.41736 -2.11667,77.12604 l -27.25208,-0.26458 c -1.17649,-4.05694 -0.65636,-8.11389 0.26458,-12.17083 l 9.39271,-4.63021 c -0.12939,-12.59024 -1.21097,-25.02178 -2.38125,-37.43854 -0.89959,-0.75843 -1.83585,-1.26015 -2.91042,-0.79375 z"
+         id="path41023-0-4-98"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8f714f;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 199.57753,516.09145 c -6.86712,-3.84986 -12.53472,-4.21721 -16.66875,-0.13229 -1.4266,0.43785 -0.92252,4.01305 -1.05833,6.54844 l -0.92605,19.05 -0.7276,15.94114 c -1.26364,2.87319 -2.48358,5.70267 -3.57188,8.40052 l -8.0623,1.29971 3.92886,22.91836 c 3.63885,-1.23014 7.70632,-1.81736 9.44798,-5.89329 7.05938,1.6125 14.11665,4.38261 19.8314,-3.08697 0.42337,-10.60971 -0.66476,-23.16278 -1.40317,-35.26621 0.28897,-9.92647 2.62737,-19.85294 -0.79016,-29.77941 z"
+         id="path37158-5-8-9"
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#755d41;fill-opacity:1;stroke:#000000;stroke-width:1.2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 171.05312,522.68434 -42.59792,-0.39687 c -1.32367,2.88334 -4.59884,2.38075 -4.89479,3.96875 l 0.13229,24.87083 2.91042,9.39271 -1.71979,1.05833 -0.52917,3.04271 -4.63021,24.87083 c -1.26854,13.16181 -0.49925,24.62542 -0.39687,36.64479 1.07582,6.57049 3.87105,13.14097 6.08542,19.71146 1.94579,7.35709 9.51962,12.42128 18.12395,17.06563 12.63558,-3.11627 23.73084,-7.90529 28.575,-18.25625 -0.14801,-11.66498 0.76868,-23.54291 1.85208,-35.45417 0.10177,-14.17023 0.62566,-28.21985 -0.92604,-42.8625 l -0.39687,-5.29167 c -1.05833,-0.11493 -2.11667,-0.22197 -3.175,-1.4552 1.77859,-1.60849 2.76096,-4.12696 3.30729,-7.14375 -1.37703,-9.92188 0.54449,-24.70542 -1.71979,-29.76563 z"
+         id="path39103-0-5"
+         sodipodi:nodetypes="cccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#8f714f;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 127.79375,522.68434 0.79375,-3.57187 c 5.0196,-5.32261 12.56992,-9.12679 19.18229,-13.49375 16.17516,6.27622 17.91078,11.41247 21.16666,16.66875 l -2.38125,33.3375 c 0.37124,11.40447 -3.86302,17.54553 -8.33437,23.41562 -2.79483,4.69455 -7.15309,10.56846 -12.56771,10.31875 -5.38875,-0.24852 -8.20461,-7.37204 -11.50937,-11.37708 -2.35484,-4.57022 -5.25168,-8.92364 -5.95313,-14.15521 z"
+         id="path41651-4-57"
+         sodipodi:nodetypes="ccccccaccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         id="path42047-9-6"
+         style="fill:#624525;fill-opacity:1;stroke:#000000;stroke-width:0.499999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 154.7518,563.51082 c -5.56316,1.27639 -10.25321,0.5883 -15.15412,0.37465 -1.68779,0.77846 -1.50184,2.07708 -1.68413,3.27372 v 5.51902 c 1.06933,1.69701 2.78232,3.00791 5.61258,3.64836 2.72083,-1.05773 5.52194,-1.15205 8.41912,-0.0935 1.7548,-0.37766 3.03326,-1.30008 3.55482,-3.08715 0.91049,-1.83036 1.57083,-4.03543 1.77715,-6.92206 -0.64234,-1.05394 -1.20326,-2.16895 -2.52542,-2.71301 z m 0.88831,4.44365 c 0.51386,0.79513 0.35278,1.59028 0,2.38538 -5.401,0.32963 -10.52597,1.21131 -16.74419,-0.0935 -0.36013,-0.96764 -0.19835,-1.58766 0.18707,-2.05828 5.60366,-1.09326 11.07377,-0.58406 16.55712,-0.2336 z"
+         sodipodi:nodetypes="ccccccccscccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 140.5293 531.42578 L 138.56641 553.0332 L 137.44336 556.86914 C 137.01008 558.2239 137.09695 559.31926 137.91016 560.05078 C 140.53991 561.9161 142.08764 560.22005 143.89844 559.39453 C 145.0939 559.61176 146.28596 559.84934 147.35938 560.79883 C 148.12829 560.13825 149.99127 558.55704 151.33398 560.18945 C 154.5967 560.35601 153.92787 559.85086 155.31055 558.27344 C 156.45221 549.73951 156.09491 540.66007 155.31055 531.42578 L 140.5293 531.42578 z "
+         xlink:href="#path42805-8-8"
+         id="path104910-1-1"
+         inkscape:href="#path42805-8-8"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 140.5293,531.42578 -1.96289,21.60742 -1.12305,3.83594 c -0.43328,1.35476 -0.34641,2.45012 0.4668,3.18164 2.62975,1.86532 4.17748,0.16927 5.98828,-0.65625 1.19546,0.21723 2.38752,0.45481 3.46094,1.4043 0.76891,-0.66058 2.63189,-2.24179 3.9746,-0.60938 3.26272,0.16656 2.59389,-0.33859 3.97657,-1.91601 1.14166,-8.53393 0.78436,-17.61337 0,-26.84766 z" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0.3996214"
+         inkscape:original="M 140.5293 531.42578 L 138.56641 553.0332 L 137.44336 556.86914 C 137.01008 558.2239 137.09695 559.31926 137.91016 560.05078 C 140.53991 561.9161 142.08764 560.22005 143.89844 559.39453 C 145.0939 559.61176 146.28596 559.84934 147.35938 560.79883 C 148.12829 560.13825 149.99127 558.55704 151.33398 560.18945 C 154.5967 560.35601 153.92787 559.85086 155.31055 558.27344 C 156.45221 549.73951 156.09491 540.66007 155.31055 531.42578 L 140.5293 531.42578 z "
+         xlink:href="#path42805-8-8"
+         id="path105300-2-0"
+         inkscape:href="#path42805-8-8"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 140.5293,531.02539 a 0.39966136,0.39966136 0 0 0 -0.39844,0.36328 l -1.95898,21.57031 -1.11133,3.79883 c -0.22626,0.71074 -0.32732,1.37395 -0.24805,1.98633 0.0796,0.61526 0.355,1.17616 0.83008,1.60352 a 0.39966136,0.39966136 0 0 0 0.0371,0.0293 c 1.39167,0.98713 2.61778,1.05865 3.65039,0.73633 0.9883,-0.30849 1.80869,-0.90371 2.62304,-1.29492 1.13942,0.20949 2.18912,0.43764 3.14063,1.2793 a 0.39966136,0.39966136 0 0 0 0.52539,0.004 c 0.383,-0.32903 1.01659,-0.85518 1.65234,-1.09375 0.31788,-0.11928 0.62536,-0.16481 0.90821,-0.11133 0.28284,0.0535 0.55893,0.19824 0.8457,0.54688 a 0.39966136,0.39966136 0 0 0 0.28906,0.14453 c 1.65052,0.0843 2.40371,0.0184 2.94922,-0.38086 0.54551,-0.39929 0.69131,-0.92113 1.34766,-1.66992 a 0.39966136,0.39966136 0 0 0 0.0957,-0.21094 c 1.14805,-8.58171 0.78732,-17.68749 0.002,-26.93359 a 0.39966136,0.39966136 0 0 0 -0.39843,-0.36719 z" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:type="inkscape:offset"
+         inkscape:radius="0"
+         inkscape:original="M 140.5293 531.42578 L 138.56641 553.0332 L 137.44336 556.86914 C 137.01008 558.2239 137.09695 559.31926 137.91016 560.05078 C 140.53991 561.9161 142.08764 560.22005 143.89844 559.39453 C 145.0939 559.61176 146.28596 559.84934 147.35938 560.79883 C 148.12829 560.13825 149.99127 558.55704 151.33398 560.18945 C 154.5967 560.35601 153.92787 559.85086 155.31055 558.27344 C 156.45221 549.73951 156.09491 540.66007 155.31055 531.42578 L 140.5293 531.42578 z "
+         xlink:href="#path42805-8-8"
+         id="path105378-1-73"
+         inkscape:href="#path42805-8-8"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"
+         d="m 140.5293,531.42578 -1.96289,21.60742 -1.12305,3.83594 c -0.43328,1.35476 -0.34641,2.45012 0.4668,3.18164 2.62975,1.86532 4.17748,0.16927 5.98828,-0.65625 1.19546,0.21723 2.38752,0.45481 3.46094,1.4043 0.76891,-0.66058 2.63189,-2.24179 3.9746,-0.60938 3.26272,0.16656 2.59389,-0.33859 3.97657,-1.91601 1.14166,-8.53393 0.78436,-17.61337 0,-26.84766 z" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 140.53018,531.42535 -1.96443,21.60874 -1.12253,3.83532 c -0.43328,1.35476 -0.34549,2.44898 0.46772,3.1805 2.62975,1.86532 4.17604,0.1707 5.98684,-0.65482 1.19546,0.21723 2.38772,0.45368 3.46114,1.40317 0.76891,-0.66058 2.63292,-2.24044 3.97563,-0.60803 3.26272,0.16656 2.59296,-0.34024 3.97564,-1.91766 1.14166,-8.53393 0.78436,-17.61293 0,-26.84722 z"
+         id="path42805-8-8"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#624525;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path43380-1-9"
+         cx="161.59425"
+         cy="532.30859"
+         rx="4.4979167"
+         ry="1.2236979"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <ellipse
+         style="fill:#624525;fill-opacity:1;stroke:#000000;stroke-width:0.4;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path43380-8-0-8"
+         cx="134.40831"
+         cy="532.14325"
+         rx="4.4979167"
+         ry="1.2236979"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 161.26353,580.26429 4.8948,1.09141 c -0.13511,-0.4961 0.24985,-0.99219 -0.76068,-1.48829 l -3.57188,-0.82682 c -0.32834,0.17254 -0.78719,-0.0465 -0.95911,0.59531 -0.13086,0.47261 0.0907,0.59281 0.39687,0.62839 z"
+         id="path43517-9-7"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 158.2539,585.02679 0.92604,-1.98438 c 5.41606,2.45928 9.51093,6.5179 13.79141,10.35183 -0.57133,0.34563 -1.16257,0.65143 -1.91823,0.62838 z"
+         id="path43799-7-9"
+         sodipodi:nodetypes="ccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.47578,587.50726 c 1.82667,1.86647 3.51887,3.86741 5.75468,5.32474 l 5.49011,7.20989 c 0.24281,0.38181 0.48358,0.76634 1.0914,0.66146 0.38893,-0.41212 0.18688,-0.95556 0.0331,-1.48828 -1.43501,-2.67952 -2.63065,-5.27926 -4.39869,-8.06979 0.17806,-0.22257 -5.92834,-4.83483 -6.35,-4.56406 -0.34869,0.22391 -1.62057,0.92604 -1.62057,0.92604 z"
+         id="path43801-2-0"
+         sodipodi:nodetypes="ccccccscc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 151.63932,589.39241 c 0.77307,2.72907 1.86811,5.32935 2.94349,7.9375 2.25483,2.56795 4.50803,5.13914 6.94531,7.34219 0.60322,-0.23147 2.15606,0.68315 1.12448,-1.52135 -3.17426,-4.60809 -5.66875,-9.15439 -9.525,-13.82448 z"
+         id="path43803-2-8"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 147.43906,591.31064 c -0.6192,0.99687 -1.08703,2.02125 -1.02526,3.14193 -0.15304,5.42862 0.77567,10.80573 1.91823,16.17266 0.26981,1.10007 0.74041,-0.009 1.19062,-0.89297 0.79401,-2.05934 0.22503,-5.56184 0.0331,-8.66511 l -0.76067,-8.76432 c -0.30156,-0.46613 -0.46251,-1.05881 -1.35602,-0.99219 z"
+         id="path43805-9-3"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 125.98083,579.01601 c 0.33587,-0.64376 0.40136,-1.34159 1.30962,-1.87087 l 2.75956,-0.32742 c -0.598,0.86408 -0.12778,1.15297 0.0234,1.61364 l -2.50232,0.5379 c -0.65065,0.37726 -1.30451,0.76418 -1.59026,0.0468 z"
+         id="path43807-6-26"
+         sodipodi:nodetypes="cccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 120.50848,593.79603 c 2.15332,-0.78388 4.67341,-1.06345 6.3844,-2.45554 1.97003,-1.50081 4.58909,-2.46713 5.61267,-4.74737 l 2.73617,-2.15154 1.49671,1.49673 c -0.84314,1.01933 -1.79967,1.86857 -2.29184,3.41436 -1.27515,1.74042 -2.9973,3.13903 -5.33203,4.06919 -2.30939,0.92951 -4.66798,1.5146 -7.03921,2.0112 -0.61329,-0.46037 -1.8437,-0.34218 -1.56687,-1.63703 z"
+         id="path43811-5-2"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 137.74403,589.02528 c -1.16718,0.82662 -1.78976,1.95578 -2.40877,3.08694 l -3.64823,6.36101 -2.12813,4.53692 c 0.58878,1.11061 1.08021,0.66369 1.61364,0.88865 l 3.62484,-4.84089 2.75956,-4.72401 1.37978,-4.60705 z"
+         id="path43813-4-77"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 139.91893,588.8148 -2.31522,5.5191 -3.0168,5.16832 0.74835,10.28989 c 0.51717,0.20104 1.03578,0.40746 1.30962,-0.30401 l 1.0056,-8.34885 3.81193,-10.99145 z"
+         id="path43815-5-6"
+         sodipodi:nodetypes="cccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 141.53257,590.96631 2.03459,1.00561 -3.39098,9.89232 -2.61924,6.75857 c -0.31311,0.53645 -0.53867,0.10994 -0.79513,0.0233 l 0.91206,-7.71742 z"
+         id="path43817-9-8"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#482804;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-640.50726"
+         y="127.86143"
+         id="text69955-1-1"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan69953-6-5"
+           style="font-size:3.52778px;fill:#482804;fill-opacity:1;stroke-width:0.264583"
+           x="-640.50726"
+           y="127.86143">嗨，我叫克萊門特</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#482804;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-656.99738"
+         y="140.86086"
+         id="text72507-7-83"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan72505-0-8"
+           style="font-size:3.52778px;fill:#482804;fill-opacity:1;stroke-width:0.264583"
+           x="-656.99738"
+           y="140.86086">我是一名計算機科學專業的學生</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#482804;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-658.23419"
+         y="154.23869"
+         id="text74595-7-9"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan74593-8-2"
+           style="font-size:3.52778px;fill:#482804;fill-opacity:1;stroke-width:0.264583"
+           x="-658.23419"
+           y="154.23869">我喜歡編寫遊戲代碼，即使它們很糟糕</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#482804;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-646.79248"
+         y="135.33923"
+         id="text75895-9-0"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan75893-2-3"
+           style="font-size:3.52778px;fill:#482804;fill-opacity:1;stroke-width:0.264583"
+           x="-646.79248"
+           y="135.33923">這個遊戲很糟糕</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.52778px;line-height:1.25;font-family:sans-serif;fill:#482804;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-650.00067"
+         y="165.4991"
+         id="text76603-3-9"
+         transform="rotate(-90)"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96"><tspan
+           sodipodi:role="line"
+           id="tspan76601-9-6"
+           style="font-size:3.52778px;fill:#482804;fill-opacity:1;stroke-width:0.264583"
+           x="-650.00067"
+           y="165.4991">2023 年 2 月 5 日，星期日</tspan></text>
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.005472,514.5406 3.414368,-1.49672 1.49671,3.97563 c 0,0 0.18709,16.41705 0.18709,16.83797 0,0.42096 0.0468,18.80243 0.0468,18.80243 l 0.70158,12.76879 0.0935,12.02045 -0.0935,2.66602 1.07576,2.89989 -9.541521,-2.38541 0.09355,-5.5191 0.280633,-9.26089 1.028985,-16.7912 0.841899,-33.58243 z"
+         id="path86390-8-5"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 97.005472,590.54536 -2.478926,2.19829 0.988033,15.20267 0.661459,22.88646 0.06615,21.56354 0.198437,18.25625 7.672915,-0.13229 -0.92604,-1.65365 0.52916,-12.83229 0.26459,-6.48229 c 1.3029,-9.89591 1.3029,-9.89591 1.3029,-9.89591 l -1.21608,-9.72861 -0.0207,-35.4088 -3.9026,-5.42395 z"
+         id="path86557-5-74"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 147.7065,506.02805 -0.8419,2.47894 -2.61924,3.22728 -6.03361,3.55468 -8.13836,4.86431 0.0936,2.24507 -0.42095,8.18512 -0.0935,3.1805 0.88867,14.3123 v 12.20753 l 4.67722,14.12517 2.57247,3.69502 1.49671,3.04019 1.82411,3.0402 0.98222,2.38537 1.07576,2.10474 -5.79975,-5.70619 -2.94665,-4.72401 -2.99342,-5.14492 -3.04018,-7.99804 -0.14032,-11.55274 -0.42095,-25.16341 -0.18709,-5.79975 1.44994,-4.0224 8.65285,-6.73521 z"
+         id="path86762-8-9"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 126.1913,561.0789 0.37418,6.64165 -1.30962,6.36101 -1.6838,7.95126 -0.0935,8.13837 -1.59026,16.18316 0.37418,7.48355 0.65481,14.40582 2.43215,5.33205 3.08697,15.15417 4.49012,4.20949 2.5257,5.14493 -7.29646,-6.45454 -4.11595,-9.26089 -4.77076,-16.74445 -0.37417,-20.57974 c 0.35681,-7.79247 -0.0747,-15.45355 2.24506,-23.57318 l 3.46114,-19.27014 z"
+         id="path86895-4-5"
+         sodipodi:nodetypes="ccccccccccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#e4d298;fill-opacity:1;stroke:#000000;stroke-width:0.6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 118.52067,591.03648 c 2.71232,-2.28497 5.12259,-5.17404 7.53032,-8.0682 2.28211,-1.09304 4.55673,-2.31322 6.89889,-2.38538 l 0.88867,1.07574 c -0.67793,1.10722 -1.63447,1.93582 -2.61924,2.73619 l -11.95029,7.62386 c -0.51778,-0.12616 -0.72886,-0.48234 -0.74835,-0.98221 z"
+         id="path43809-9-0"
+         sodipodi:nodetypes="ccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 114.23385,514.41611 -0.8599,4.82865 0.33073,9.39271 1.12448,14.08906 v 5.29167 l 1.71979,7.40833 0.92605,-0.79375 -0.39688,-7.14375 -0.99219,-15.1474 -0.26458,-15.61041 z"
+         id="path87468-8-0"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 183.48853,515.20986 1.85209,7.9375 0.46302,7.14375 -1.65365,12.83229 -0.59531,13.42761 -0.19844,4.56406 c -0.23743,2.47454 -1.21532,4.20864 -2.3151,5.82083 -2.20486,1.49616 -4.40972,2.1758 -6.61458,2.05052 -0.88745,0.0633 -0.87694,-0.42937 -0.8599,-0.92604 l -0.33073,-1.91823 3.57187,-0.33073 3.37344,-8.33437 0.72761,-17.33021 1.38906,-23.61406 z"
+         id="path87616-6-9"
+         sodipodi:nodetypes="ccccccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 175.67625,592.08884 0.79513,3.69501 1.63703,12.81555 c -1.65845,3.32328 1.25272,4.0591 1.87089,7.53033 -2.24429,5.3935 0.95713,10.92656 0.37417,15.52838 l 2.15152,26.98753 c -1.33448,0.12529 -2.67805,0.30208 -3.64823,-1.63704 l -2.41276,-38.08207 -3.27422,-0.66146 0.72761,-15.0151 0.23151,-10.88099 z"
+         id="path87953-9-0"
+         sodipodi:nodetypes="cccccccccccc"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 178.57613,656.86828 -1.12254,2.52571 -2.15151,1.59025 -2.89988,1.8709 0.14032,4.30302 -0.60804,3.32084 -1.12253,2.89986 -1.73057,0.0468 -0.79513,-4.67722 1.16931,-7.57709 z"
+         id="path88652-9-6"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 159.34531,511.57187 3.57187,5.15935 4.23333,11.24479 -1.19062,4.10104 -0.99219,24.73854 -0.92604,4.69636 -0.52917,3.96875 -3.83646,7.0776 -3.26991,7.1827 -1.1693,3.27405 5.00462,-7.10937 3.32082,-4.25627 2.38539,-6.59487 0.93544,-11.73982 0.79513,-13.65747 1.54348,-16.88475 -3.83532,-6.12715 z"
+         id="path88800-0-0"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 197.79949,515.61634 0.23386,2.99342 0.65481,4.77078 0.70158,6.12714 -0.60804,13.98487 0.32741,12.34787 0.3274,4.16271 -0.3274,11.45919 1.12253,3.41436 0.70158,3.64824 0.98222,0.51448 -0.28064,-10.66406 -0.70158,-13.56391 -0.51449,-9.35443 1.26285,-17.67988 -1.87089,-11.45918 z"
+         id="path89065-7-9"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 195.59322,594.12184 -0.59531,5.88698 0.13229,6.41615 0.46302,3.50573 -0.33073,4.43177 -0.52916,12.10468 -0.99219,5.6224 1.12448,3.9026 -0.66146,15.875 0.39687,3.30729 v 2.51355 l 0.26459,3.43958 -0.19844,6.01927 1.38906,1.78594 0.0661,-14.94896 2.05052,-51.5276 0.46302,-6.28386 z"
+         id="path89231-7-9"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 115.80788,654.34259 2.80633,4.02241 2.61924,2.89989 1.77735,2.61921 v 2.43216 l 0.65481,2.99342 0.46772,-3.36759 -0.56127,-8.13835 z"
+         id="path89379-2-0"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#b3b3b3;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 171.58228,561.04892 -1.25677,5.02709 0.92605,3.9026 1.05833,5.35781 -0.33073,5.88698 0.39687,15.01511 -0.66145,3.63802 -0.59532,10.64948 -2.38125,5.4901 0.72761,13.89063 -0.8599,10.12031 -0.85989,3.10885 -2.18282,6.15157 -2.3151,1.25677 c 0,0 -1.12448,2.97656 -1.45521,2.97656 -0.33073,0 1.45521,1.19062 1.45521,1.19062 l 6.61458,-5.55625 2.18282,-4.82864 1.71979,-34.925 0.39687,-21.76198 -1.32291,-26.32604 z"
+         id="path89527-0-53"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 192.14006,526.37396 c -0.0754,-0.0355 -0.71117,0.26689 -0.9795,1.56136 -0.49035,2.65244 0.0233,3.45876 0.22443,7.72919 0.0682,1.1823 -0.69752,2.57755 -0.51514,4.34143 0.18832,1.54661 0.64019,2.92522 1.04364,4.4607 0.37698,1.43476 0.62133,2.72798 0.45137,4.01187 -0.064,0.8424 -0.73346,1.65027 -1.31819,2.40937 -0.73718,0.89703 -1.43397,1.74793 -1.76297,2.86085 -0.54781,2.01583 -0.39071,4.70916 -0.37813,5.684 0.0173,1.33862 -0.0329,2.0994 0.054,2.11388 0.092,0.0153 0.3164,-0.72637 0.45378,-2.09147 0.09,-0.89412 0.16792,-3.79197 0.71877,-5.45189 0.26843,-0.87834 0.92271,-1.56671 1.68111,-2.48322 0.64042,-0.72654 1.40267,-1.67533 1.59875,-2.91064 0.17701,-1.49183 -0.0647,-2.93022 -0.44203,-4.41564 -0.40653,-1.60033 -0.85694,-2.89885 -1.05638,-4.32395 -0.21495,-1.28236 0.52113,-2.7436 0.4203,-4.26461 -0.26347,-3.41012 -0.8132,-5.99896 -0.71101,-7.61209 0.0131,-0.95649 0.59264,-1.58365 0.51722,-1.61914 z"
+         id="path92695-2-3"
+         inkscape:path-effect="#path-effect130157"
+         inkscape:original-d="m 192.14006,526.37396 c -0.24945,0.53006 -0.67569,1.00893 -0.74836,1.59025 -0.30287,2.423 0.31307,5.19623 0.46772,7.67064 0.0937,1.49876 -0.65673,2.8539 -0.46772,4.30302 0.37413,2.86833 1.86621,5.65005 1.49671,8.60608 -0.24758,1.98064 -2.5815,3.33536 -3.18051,5.33204 -0.7795,2.59832 -0.31808,5.08897 -0.74835,7.67062"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 183.88541,605.76351 c 0.0785,-0.11557 1.41986,0.15317 2.85403,1.95202 0,0 0,0 0,0 0.31648,0.38768 0.54287,1.00308 0.30918,1.67819 -0.20253,0.46692 -0.51681,0.81937 -0.68293,1.13969 -0.18297,0.34017 -0.23603,0.78239 -0.11627,1.18753 0,0 0,0 0,0 0.3991,1.44564 1.40687,2.98456 1.81905,5.04394 0.34827,1.89042 0.0868,3.55144 0.0428,5.44828 -0.003,0.11796 -0.004,0.23506 -0.005,0.35139 -0.007,0.64865 -0.13739,1.1999 -0.19058,1.67343 v 0 c -0.0221,0.52739 -0.0902,0.961 0.0875,1.17396 v 0 c 0.13966,0.23123 0.33944,0.48514 0.53012,0.7917 v 0 1e-5 0 c 0.11125,0.17236 0.22819,0.36008 0.33654,0.57291 v 0 h -1e-5 v 0 c -0.0194,0.18059 -0.0285,0.4001 -0.0394,0.65963 0,0 0,10e-6 0,10e-6 v 0 0 c 0.0118,0.0291 0.0258,0.0708 0.002,0.0839 -1.12679,0.60536 -1.80342,2.03721 -2.15834,3.23878 -0.35075,1.34521 -0.39134,3.19672 -0.48025,4.28966 -0.20076,2.71494 -1.10719,4.25616 -1.24988,4.18481 -0.1427,-0.0713 0.41015,-1.55053 0.41292,-4.21647 -0.007,-1.09785 -0.0877,-2.91419 0.23821,-4.507 0.20459,-1.22413 0.88021,-2.68836 2.33958,-3.3758 0.0312,-0.0147 0.0243,-0.0581 0.0196,-0.0889 v -10e-6 0 c 0,0 0,10e-6 0,10e-6 -0.0451,0.13475 -0.113,0.23668 -0.19205,0.30171 v 0 0 0 c -0.0742,-0.1418 -0.17261,-0.28981 -0.28221,-0.45614 v 0 0 0 c -0.15688,-0.22668 -0.37405,-0.49768 -0.56861,-0.82355 v 0 c -0.36871,-0.69713 -0.37112,-1.40367 -0.27937,-1.96367 v 0 c 0.0578,-0.58605 0.18347,-1.0969 0.17625,-1.53894 -3.6e-4,-0.12621 7.3e-4,-0.25228 0.003,-0.37826 0.0371,-2.02704 0.32793,-3.56245 0.035,-5.19915 -0.27761,-1.73446 -1.24337,-3.35085 -1.62053,-5.01024 0,0 0,0 0,0 -0.15428,-0.6909 -0.0211,-1.37794 0.30554,-1.9236 0.28309,-0.46055 0.59118,-0.73838 0.72235,-1.01599 0.16502,-0.21537 0.0368,-0.60299 -0.12512,-0.8868 0,0 0,0 0,0 -1.02082,-1.65032 -2.32137,-2.27143 -2.24292,-2.387 z"
+         id="path95168-1-9"
+         inkscape:path-effect="#path-effect130161"
+         inkscape:original-d="m 183.88541,605.76351 c 5.57953,3.7873 1.17812,3.38957 1.85208,6.08541 0.41967,1.67868 1.40111,3.27436 1.71979,5.02709 0.32278,1.7753 0,3.88149 0,5.68854 0,0.865 -0.4891,2.35982 0,3.175 0.0702,0.11702 1.08608,1.50749 0.92605,1.5875 -1.04656,0.52329 -1.96339,2.06981 -2.24896,3.30729 -0.65257,2.82779 0.0915,6.03478 -1.19063,8.59896"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 109.00833,652.19788 c 0.0856,0.0561 -0.26569,0.56308 -0.6749,1.30247 0,0 0,0 0,0 -0.15915,0.31135 -0.35243,0.78767 -0.17745,1.08806 0.28704,0.71308 0.82001,1.18956 1.53744,1.99725 0.27203,0.28889 0.59652,0.61971 0.88214,0.98613 0.29052,0.37271 0.53667,0.77569 0.69552,1.23608 0.30821,1.02357 0.14833,2.25791 0.14676,2.90871 -0.005,1.48141 1.09493,2.12555 1.03008,2.25526 -0.0649,0.12971 -1.55142,-0.32452 -1.73713,-2.21743 -0.0892,-0.85601 0.0526,-1.84173 -0.26105,-2.67276 -0.10533,-0.33215 -0.30703,-0.63903 -0.56714,-0.95904 -0.25982,-0.31965 -0.55975,-0.63326 -0.83623,-0.962 -0.68424,-0.76975 -1.26744,-1.42841 -1.56695,-2.32618 -0.1919,-0.71257 0.12619,-1.30735 0.40526,-1.63933 0,0 0,0 0,0 0.61989,-0.77351 1.03808,-1.05334 1.12365,-0.99722 z"
+         id="path96759-7-3"
+         inkscape:path-effect="#path-effect130165"
+         inkscape:original-d="m 109.00833,652.19788 c -0.45475,0.69334 -1.54644,1.53506 -1.19063,2.51354 0.50651,1.3929 2.61845,2.96056 3.04271,4.23334 0.61026,1.83078 -0.59568,3.93549 1.5875,5.02708"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.75649,658.87948 c 0.0555,-0.20858 1.77973,0.1955 3.71601,1.03441 0.0465,0.0214 0.0959,0.0403 0.14807,0.0575 0.39105,0.12906 0.90412,0.16999 1.38284,0.3851 0.60679,0.31979 0.75431,0.74726 0.96784,0.87345 0.61536,0.38771 1.15333,0.73456 1.0817,0.83006 -0.0716,0.0955 -0.49147,0.057 -1.35046,-0.2925 -0.44737,-0.20421 -0.73424,-0.66407 -0.9966,-0.71681 -0.32622,-0.12985 -0.79296,-0.13664 -1.3375,-0.31716 -0.0727,-0.0241 -0.14556,-0.0512 -0.21855,-0.0821 -1.96522,-0.86799 -3.44885,-1.56335 -3.39335,-1.77193 z"
+         id="path96853-7-4"
+         inkscape:path-effect="#path-effect130169"
+         inkscape:original-d="m 110.75649,658.87948 c 1.24889,0.33229 2.39413,0.89543 3.55468,1.40317 0.49542,0.21675 1.0545,0.2114 1.54348,0.42095 0.41914,0.17965 0.61181,0.60995 0.98222,0.79513 0.3865,0.19325 0.8554,0.29077 1.21608,0.56128"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="fill:#624525;fill-opacity:1;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 110.19522,554.99851 c 0.15717,0.0477 -0.11029,0.99327 -0.55749,2.31253 -0.17575,0.57163 -0.43744,1.38718 -0.20125,1.92665 0,0 0,0 0,0 0.49723,1.49931 1.54903,3.16622 2.45939,5.20003 0.2915,0.65125 0.54024,1.3025 0.72697,1.97449 0,0 0,0 0,0 0.655,2.36786 1.06821,4.42946 1.52488,5.83132 0.45375,1.39286 0.87101,2.20824 0.72472,2.30576 -0.13143,0.0876 -0.81524,-0.57221 -1.53236,-1.96709 -0.85668,-1.66631 -1.25123,-3.20095 -2.0178,-5.7984 0,0 0,-1e-5 0,-1e-5 -0.17322,-0.58782 -0.40588,-1.17101 -0.68207,-1.78077 -0.98191,-2.16776 -1.81349,-3.44658 -2.30549,-5.45053 0,0 0,-1e-5 0,-1e-5 -0.22616,-1.08811 0.18862,-2.02196 0.50785,-2.58733 0.72245,-1.3696 1.19548,-2.01436 1.35265,-1.96664 z"
+         id="path98103-8-1"
+         inkscape:path-effect="#path-effect130173"
+         inkscape:original-d="m 110.19522,554.99851 c -0.38948,1.2827 -1.72084,2.95733 -1.30962,4.39658 0.70596,2.47087 2.36683,4.68247 3.08696,7.20291 0.77911,2.72688 1.34121,5.6133 2.89988,7.95129"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:multiply;fill:#999999;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 141.78359,531.51481 0.0331,4.63021 -0.76067,3.96875 -1.12448,8.00364 0.79375,1.95131 -0.56224,2.97656 -0.82683,2.11667 -0.79375,2.18281 -1.02526,2.21588 -0.39687,-1.68672 1.5875,-4.92786 0.46302,-6.61458 1.19062,-13.12995 0.29766,-2.05052 z"
+         id="path104795-2-59"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <rect
+         style="fill:#8f714f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect106063-6-4"
+         width="15.180469"
+         height="1.5213542"
+         x="140.26224"
+         y="530.3573"
+         ry="0.7606771"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+      <path
+         style="mix-blend-mode:overlay;fill:#999999;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 155.67421,533.20153 -0.59531,2.38125 -0.16536,2.8112 0.0331,2.77812 -0.0661,3.175 0.19844,3.5388 0.16537,2.61276 0.19843,5.09323 0.42995,0.66146 0.29766,-5.68854 v -11.57552 z"
+         id="path106765-2-9"
+         inkscape:export-filename="C:\Users\Clément\Desktop/totem.png"
+         inkscape:export-xdpi="96"
+         inkscape:export-ydpi="96" />
+    </g>
+  </g>
+</svg>
