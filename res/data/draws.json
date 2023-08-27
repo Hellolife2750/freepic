@@ -855,6 +855,111 @@
             ],
             "categories": [],
             "linkedAssets": []
+        },
+        {
+            "title": "Bucks pack",
+            "link": "res/data/SVGs/bucks_pack.svg",
+            "keyWords": [
+                "bucks",
+                "pack",
+                "money",
+                "cash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Bucks pile",
+            "link": "res/data/SVGs/bucks_pile.svg",
+            "keyWords": [
+                "bucks",
+                "pile",
+                "money",
+                "cash"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Cute Jupyter",
+            "link": "res/data/SVGs/cute_jupyter.svg",
+            "keyWords": [
+                "cute",
+                "jupyter",
+                "planet",
+                "space"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Electrical outlet",
+            "link": "res/data/SVGs/electrical_outlet.svg",
+            "keyWords": [
+                "electrical",
+                "outlet",
+                "electricity"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Employee",
+            "link": "res/data/SVGs/employee.svg",
+            "keyWords": [
+                "employee",
+                "icon",
+                "people",
+                "person",
+                "human"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Employer",
+            "link": "res/data/SVGs/employer.svg",
+            "keyWords": [
+                "employer",
+                "icon",
+                "people",
+                "person",
+                "human"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Frog",
+            "link": "res/data/SVGs/frog.svg",
+            "keyWords": [
+                "frog",
+                "animal"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Lightning (2)",
+            "link": "res/data/SVGs/lightning2.svg",
+            "keyWords": [
+                "lightning",
+                "bolt"
+            ],
+            "categories": [],
+            "linkedAssets": []
+        },
+        {
+            "title": "Tool cabinet",
+            "link": "res/data/SVGs/tool_cabinet.svg",
+            "keyWords": [
+                "tool",
+                "cabinet",
+                "cupboard",
+                "workbench"
+            ],
+            "categories": [],
+            "linkedAssets": []
         }
     ]
 }
